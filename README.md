@@ -301,6 +301,7 @@ You can find more courses, articles, videos etc here:
 - [Khan Academy](https://www.khanacademy.org)
 - [Codecademy](https://www.codecademy.com)
 - [Better Explained](https://betterexplained.com)
+- [Learn X in Y minutes](https://learnxinyminutes.com)
 
 Online documentation:
 
@@ -330,3 +331,4 @@ Forums, Q&A:
   - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
   - [Repl.It](https://repl.it/) — a REPL, compiler & IDE
   - [RunKit](https://runkit.com/) — a Node prototyping tool
+  - [Reepl](http://jaredforsyth.com/reepl/) — an online ClojureScript REPL
