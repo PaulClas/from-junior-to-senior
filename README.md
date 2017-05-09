@@ -85,17 +85,17 @@ will) include something related to SEO, advertising, marketing etc.
 ## Calculus
 
 - :pencil: **Articles**
-  - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
+  - [x] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :book: **Books**
   - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
-    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
-    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
-    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
-    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
-    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
-    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
+    - [x] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
+    - [x] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
+    - [x] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
+    - [x] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
+    - [x] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
+    - [x] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
     
 ## Functional Analysis
 
