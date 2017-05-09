@@ -88,6 +88,10 @@ will) include something related to SEO, advertising, marketing etc.
   - [x] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :book: **Books**
   - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
+  - [ ] :ru: Курс дифференциального и интегрального исчисления by Grigorii Fichtenholz
+    ([vol. 1](http://www.ozon.ru/context/detail/id/4577306/),
+     [vol. 2](http://www.ozon.ru/context/detail/id/4577307/),
+     [vol. 3](http://www.ozon.ru/context/detail/id/4577308/))
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
     - [x] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
