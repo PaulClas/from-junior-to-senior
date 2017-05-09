@@ -318,6 +318,7 @@ Forums, Q&A:
 
 - [StackOverflow](http://stackoverflow.com)
 - :ru: [Toster](https://toster.ru)
+- :ru: [dxdy](http://dxdy.ru)
 
 ## Online Tools
 
