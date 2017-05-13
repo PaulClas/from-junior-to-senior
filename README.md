@@ -58,6 +58,9 @@ will) include something related to SEO, advertising, marketing etc.
     - [Interpreters](#interpreters)
     - [Garbage Collectors](#garbage-collectors)
 - [Networks](#networks)
+- [Web Development](#web-development)
+  - [Server-side](#server-side)
+  - [Client-side](#client-side)
 - [Databases](#databases)
   - [SQL Databases](#sql-databases)
     - [SQL](#sql)
@@ -260,6 +263,33 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :book: **Books**
   - [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew S. Tanenbaum
+
+## Web Development
+
+### Server-side
+
+- :mortar_board: **Courses**
+  - [Codecademy](https://www.codecademy.com)
+    - [ ] [Learn Rails](https://www.codecademy.com/courses/learn-rails)
+    - [ ] [Ruby on Rails Authentification](https://www.codecademy.com/courses/rails-auth)
+
+### Client-side
+
+- :mortar_board: **Courses**
+  - [Codecademy](https://www.codecademy.com)
+    - [x] [Learn AngularJS](https://www.codecademy.com/courses/learn-angularjs)
+    - [x] [Learn ReactJS: Part I](https://www.codecademy.com/courses/react-101)
+    - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/courses/react-102)
+
+## Databases
+
+### SQL Databases
+
+- :mortar_board: **Courses**
+  - [Codecademy](https://www.codecademy.com)
+    - [ ] [Learn SQL](https://www.codecademy.com/courses/learn-sql)
+    - [ ] [SQL: Table Transformation](https://www.codecademy.com/courses/sql-table-transformation)
+    - [ ] [SQL: Analyzing Business Metrics](https://www.codecademy.com/courses/sql-analyzing-business-metrics)
 
 ## Concurrent Programming
 
