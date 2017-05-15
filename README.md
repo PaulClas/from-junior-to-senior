@@ -240,6 +240,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Writing Device Drivers in Linux: A Brief Tutorial](http://freesoftwaremagazine.com/articles/drivers_linux/) by Free Software Magazine
   
 - :book: **Books**
+  - [ ] [Linux From Scratch](http://www.linuxfromscratch.org/) by Gerard Beekmans
   - [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
   
 ### Compilers and Interpreters
