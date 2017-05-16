@@ -90,10 +90,9 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [x] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :book: **Books**
-  - :ru: Курс дифференциального и интегрального исчисления в 3 томах by Grigorii Fichtenholz
-    - [ ] [vol. 1](http://www.ozon.ru/context/detail/id/4577306/)
-    - [ ] [vol. 2](http://www.ozon.ru/context/detail/id/4577307/)
-    - [ ] [vol. 3](http://www.ozon.ru/context/detail/id/4577308/)
+  - [ ] :ru:[Курс дифференциального и интегрального исчисления в 3 томах. Том 1](http://www.ozon.ru/context/detail/id/4577306/) by Grigorii Fichtenholz
+  - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 2](http://www.ozon.ru/context/detail/id/4577307/) by Grigorii Fichtenholz
+  - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 3](http://www.ozon.ru/context/detail/id/4577308/) by Grigorii Fichtenholz
   - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
@@ -215,6 +214,13 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
+## Programming Paradigms
+
+### Functional Programming
+
+- :pencil: **Articles**
+  - [x] [Transducers in Clojure](https://clojure.org/reference/transducers)
+
 ## Computer Architecture
 
 - :paperclip: **Cheat Sheets**
@@ -284,7 +290,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Codecademy](https://www.codecademy.com)
     - [x] [Learn AngularJS](https://www.codecademy.com/courses/learn-angularjs)
     - [x] [Learn ReactJS: Part I](https://www.codecademy.com/courses/react-101)
-    - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/courses/react-102)
+    - [x] [Learn ReactJS: Part II](https://www.codecademy.com/courses/react-102)
 
 ## Databases
 
