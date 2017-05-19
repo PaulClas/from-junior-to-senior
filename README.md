@@ -198,6 +198,7 @@ will) include something related to SEO, advertising, marketing etc.
      [C11](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf))
 - :book: **Books**
   - [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) by Brian W. Kernighan and Dennis M. Ritchie
+  - [ ] [C Primer Plus](https://www.amazon.com/C-Primer-Plus-Developers-Library-ebook/dp/B00GWLPX76) by Stephen Prata
   - [ ] [C Programming Absolute Beginner's Guide](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984) by Greg Perry and Dean Miller
   - [ ] [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by Bjarne Stroustrup
   - [ ] [C++ Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402asv) by Stephen Prata
@@ -347,6 +348,7 @@ You can find more courses, articles, videos etc here:
 - [Codecademy](https://www.codecademy.com)
 - [Better Explained](https://betterexplained.com)
 - [Learn X in Y minutes](https://learnxinyminutes.com)
+- :ru: [Викиконспекты ИТМО](http://neerc.ifmo.ru/wiki)
 
 Online documentation:
 
