@@ -90,7 +90,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [x] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :book: **Books**
-  - [ ] :ru:[Курс дифференциального и интегрального исчисления в 3 томах. Том 1](http://www.ozon.ru/context/detail/id/4577306/) by Grigorii Fichtenholz
+  - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 1](http://www.ozon.ru/context/detail/id/4577306/) by Grigorii Fichtenholz
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 2](http://www.ozon.ru/context/detail/id/4577307/) by Grigorii Fichtenholz
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 3](http://www.ozon.ru/context/detail/id/4577308/) by Grigorii Fichtenholz
   - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
