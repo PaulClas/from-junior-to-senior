@@ -1,7 +1,7 @@
 # From junior to senior
 
 <img src="https://cdn.rawgit.com/KolesnichenkoDS/from-junior-to-senior/master/sicp.jpg"
-     width="350">
+     width="350" />
 
 My study plan for going from junior to senior software developer (i. e. from level 1 to level 3 of the
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
@@ -47,6 +47,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
+  - [Actor Model](#actor-model)
 - [Design Patterns](#design-patterns)
 - [Computer Architecture](#computer-architecture)
 - [Systems Programming](#systems-programming)
@@ -69,7 +70,6 @@ will) include something related to SEO, advertising, marketing etc.
   - [POSIX Threads](#posix-threads)
   - [Green Threads](#green-threads)
   - [Coroutines](#coroutines)
-  - [Actor Model](#actor-model)
   - [SIMD](#simd)
 - [Security](#security)
   - [Cryptography](#cryptography)
@@ -221,12 +221,21 @@ will) include something related to SEO, advertising, marketing etc.
 ### Object-Oriented Programming
 
 - :pencil: **Articles**
-  - [ ] [Retracing Original Object-Oriented Programming](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50)
+  - [ ] [Retracing Original Object-Oriented Programming](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50) by A. T. Herlangga
+- :book: **Books**
+  - [ ] [A Theory of Objects](https://www.amazon.com/Theory-Objects-Monographs-Computer-Science/dp/0387947752) by M. Abadi, L. Cardelli
 
 ### Functional Programming
 
 - :pencil: **Articles**
   - [x] [Transducers in Clojure](https://clojure.org/reference/transducers)
+  
+### Actor Model
+
+- :pencil: **Articles**
+  - [ ] [Why has the actor model not succeeded?](http://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol2/pjm2/) by P. Mackay
+- :book: **Books**
+  - [ ] [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka](https://www.amazon.com/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830) by by V. Vernon
 
 ## Computer Architecture
 
