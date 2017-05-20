@@ -218,6 +218,11 @@ will) include something related to SEO, advertising, marketing etc.
 
 ## Programming Paradigms
 
+### Object-Oriented Programming
+
+- :pencil: **Articles**
+  - [ ] [Retracing Original Object-Oriented Programming](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50)
+
 ### Functional Programming
 
 - :pencil: **Articles**
