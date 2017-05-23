@@ -353,6 +353,7 @@ will) include something related to SEO, advertising, marketing etc.
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [What happens when...](https://github.com/alex/what-happens-when)
+- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
 ## Resources
 
