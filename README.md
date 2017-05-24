@@ -347,13 +347,14 @@ will) include something related to SEO, advertising, marketing etc.
 ## See also
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)1
 - [Project Based Learning](https://github.com/tuvttran/project-based-learning)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [Awesome Compilers](http://aalhour.com/awesome-compilers)
 - [What happens when...](https://github.com/alex/what-happens-when)
-- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
 ## Resources
 
