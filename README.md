@@ -229,6 +229,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [x] [Transducers in Clojure](https://clojure.org/reference/transducers)
+- :movie_camera: **Videos**
+  - [x] [Immutable data structures for functional JS](https://youtu.be/Wo0qiGPSV-s) by Anjana Vakil
   
 ### Actor Model
 
