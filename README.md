@@ -129,6 +129,11 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 
+## Category Theory
+
+- :book: **Books**
+  - [ ] [Basic Category Theory for Computer Scientists](https://www.amazon.com/Category-Computer-Scientists-Foundations-Computing/dp/0262660717) by Benjamin C. Pierce
+
 ## Combinatorics and Probability
 
 - :mortar_board: **Courses**
