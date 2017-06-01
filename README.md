@@ -354,7 +354,7 @@ will) include something related to SEO, advertising, marketing etc.
 ## See also
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)1
+- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 - [Project Based Learning](https://github.com/tuvttran/project-based-learning)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
