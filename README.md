@@ -201,6 +201,8 @@ will) include something related to SEO, advertising, marketing etc.
   - ANSI C Standard
     ([C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf),
      [C11](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf))
+- :pencil: **Articles**
+  - [ ] [What Every C Programmer Should Know About Undefined Behaviour](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) by Chris Lattner
 - :book: **Books**
   - [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) by Brian W. Kernighan and Dennis M. Ritchie
   - [ ] [C Primer Plus](https://www.amazon.com/C-Primer-Plus-Developers-Library-ebook/dp/B00GWLPX76) by Stephen Prata
@@ -208,6 +210,8 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Object-Oriented C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
   - [ ] [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by Bjarne Stroustrup
   - [ ] [C++ Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402asv) by Stephen Prata
+- :movie_camera: **Videos**
+  - [ ] :ru: [Использование C++ для низкоуровневой платформозависимой разработки](https://youtu.be/0K0I5uiX_Uk) by Kirill Lashkevich
 
 ### Haskell
 
