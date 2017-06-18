@@ -253,6 +253,8 @@ will) include something related to SEO, advertising, marketing etc.
 - :paperclip: **Cheat Sheets**
   - [Intel Architecture Instruction Set Extensions Programming Reference](https://software.intel.com/sites/default/files/managed/c5/15/architecture-instruction-set-extensions-programming-reference.pdf)
   - [Intel 64 and IA-32 Architectures Optimization Reference Manual](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
+- :pencil: **Articles**
+  - [ ] [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf) by Ulrich Drepper
 - :mortar_board: **Courses**
   - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) by Princeton University
 
