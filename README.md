@@ -213,6 +213,11 @@ will) include something related to SEO, advertising, marketing etc.
 - :movie_camera: **Videos**
   - [ ] :ru: [Использование C++ для низкоуровневой платформозависимой разработки](https://youtu.be/0K0I5uiX_Uk) by Kirill Lashkevich
 
+### Java
+
+- :paperclip: **Cheat Sheets**
+  - [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) by Alexey Shipilev
+
 ### Haskell
 
 - :book: **Books**
@@ -296,6 +301,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [ ] [Garbage Collection with LLVM](http://llvm.org/docs/GarbageCollection.html)
+  - [ ] [JVM Anatony Park: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses/) by Alexey Shipilev
   - [ ] [Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance](http://users.cecs.anu.edu.au/~steveb/pubs/papers/immix-pldi-2008.pdf) by Stephen M. Blackburn and Kathryn S. McKinley
   - [ ] [Rust as a Language for High Performance GC Implementation](http://ts.data61.csiro.au/publications/nictaabstracts/9260.pdf)
   - [ ] [Designing a GC in Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/) by Manish Goregaokar
