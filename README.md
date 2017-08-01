@@ -212,6 +212,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [C++ Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402asv) by Stephen Prata
 - :movie_camera: **Videos**
   - [ ] :ru: [Использование C++ для низкоуровневой платформозависимой разработки](https://youtu.be/0K0I5uiX_Uk) by Kirill Lashkevich
+  - [ ] :ru: [Модель памяти C++](https://youtu.be/SIZmLPtcZiE) by Andrey Yankovsky
 
 ### Java
 
