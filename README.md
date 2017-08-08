@@ -54,6 +54,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Operating Systems](#operating-systems)
     - [Linux](#linux)
     - [Windows](#windows)
+  - [Embedded Programming](#embedded-programming)
   - [Compilers and Interpreters](#compilers-and-interpreters)
     - [Compilers](#compilers)
     - [Interpreters](#interpreters)
@@ -283,7 +284,16 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [Linux From Scratch](http://www.linuxfromscratch.org/) by Gerard Beekmans
   - [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
-  
+
+### Embedded Programming
+
+- :pencil: **Articles**
+  - [ ] [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) by Jorge Aparicio
+  - [ ] [Fearless concurrency in your microcontroller](http://blog.japaric.io/fearless-concurrency/) by Jorge Aparicio
+
+- :book: **Books**
+  - [ ] [Discover the world of microcontrollers through Rust!](https://github.com/japaric/discovery) by Jorge Aparicio
+
 ### Compilers and Interpreters
 
 #### Compilers
