@@ -290,8 +290,8 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [ ] [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) by Jorge Aparicio
   - [ ] [Fearless concurrency in your microcontroller](http://blog.japaric.io/fearless-concurrency/) by Jorge Aparicio
-  - [ ] [Understanding the STM32F0's GPIO part 1](http://hertaville.com/stm32f0-gpio-tutorial-part-1.html)
-  - [ ] [Understanding the STM32F0's GPIO part 2](http://hertaville.com/stm32f0-gpio-tutorial-part-2.html)
+  - [ ] [Understanding the STM32F0's GPIO part 1](http://hertaville.com/stm32f0-gpio-tutorial-part-1.html) by Hertaville.com
+  - [ ] [Understanding the STM32F0's GPIO part 2](http://hertaville.com/stm32f0-gpio-tutorial-part-2.html) by Hertaville.com
 
 - :book: **Books**
   - [ ] [Discover the world of microcontrollers through Rust!](https://github.com/japaric/discovery) by Jorge Aparicio
