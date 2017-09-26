@@ -129,7 +129,7 @@ will) include something related to SEO, advertising, marketing etc.
 ## Logic
 
 - :pencil: **Articles**
-  - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by 
+  - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by nLab
   - [x] [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by nLab
 
 ## Abstract Algebra
