@@ -25,6 +25,7 @@ will) include something related to SEO, advertising, marketing etc.
 - [Geometry](#geometry)
   - [Analytic Geometry](#analytic-geometry)
 - [Linear Algebra](#linear-algebra)
+- [Logic](#logic)
 - [Abstract Algebra](#abstract-algebra)
 - [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
@@ -124,6 +125,12 @@ will) include something related to SEO, advertising, marketing etc.
     - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
     - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
     - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
+
+## Logic
+
+- :pencil: **Articles**
+  - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by 
+  - [x] [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by nLab
 
 ## Abstract Algebra
 
