@@ -25,7 +25,7 @@ will) include something related to SEO, advertising, marketing etc.
 - [Geometry](#geometry)
   - [Analytic Geometry](#analytic-geometry)
 - [Linear Algebra](#linear-algebra)
-- [Logic](#logic)
+- [Mathematical Logic](#mathematical-logic)
 - [Abstract Algebra](#abstract-algebra)
 - [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
@@ -33,7 +33,6 @@ will) include something related to SEO, advertising, marketing etc.
   - [Graph Theory](#graph-theory)
 - [Type Theory](#type-theory)
 - [Lambda Calculus](#lambda-calculus)
-  - [Typed Lambda Calculus](#typed-lambda-calculus)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
   - [Basic Algorithms](#basic-algorithms)
@@ -126,7 +125,7 @@ will) include something related to SEO, advertising, marketing etc.
     - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
     - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
-## Logic
+## Mathematical Logic
 
 - :pencil: **Articles**
   - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by nLab
@@ -156,9 +155,20 @@ will) include something related to SEO, advertising, marketing etc.
 
 ## Type Theory
 
+- :pencil: **Articles**
+  - [ ] [On Regions and Linear Types](https://www.cs.princeton.edu/~dpw/papers/space.pdf) by David Walker and Kevin Watkins
+  - [ ] [Linear Regions Are All You Need](http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf) by Matthew Fluet, Greg Morrisett and Amal Ahmed
+  - [ ] [The Pain Of Real Linear Types in Rust](https://gankro.github.io/blah/linear-rust/) by Alexis Beingessner
+
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
   - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benjamin C. Pierce
+  
+## Lambda Calculus
+  - :movie_camera: **Videos**
+     - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
+     - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
+     - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
   
 ## Data Structures
 
