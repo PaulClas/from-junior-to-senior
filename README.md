@@ -94,7 +94,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 1](http://www.ozon.ru/context/detail/id/4577306/) by Grigorii Fichtenholz
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 2](http://www.ozon.ru/context/detail/id/4577307/) by Grigorii Fichtenholz
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 3](http://www.ozon.ru/context/detail/id/4577308/) by Grigorii Fichtenholz
-  - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
+  - [x] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
     - [x] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
@@ -121,15 +121,17 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-    - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
-    - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
-    - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
+    - [x] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+    - [x] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+    - [x] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
 ## Mathematical Logic
 
 - :pencil: **Articles**
   - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by nLab
   - [x] [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by nLab
+- :book: **Books**
+  - [ ] [Linear Logic](http://www.cs.cmu.edu/~fp/courses/linear/handouts/linear.pdf) by Frank Pfenning
 
 ## Abstract Algebra
 
@@ -140,6 +142,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :book: **Books**
   - [ ] [Basic Category Theory for Computer Scientists](https://www.amazon.com/Category-Computer-Scientists-Foundations-Computing/dp/0262660717) by Benjamin C. Pierce
+  - [ ] [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski
 
 ## Combinatorics and Probability
 
@@ -159,16 +162,25 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [On Regions and Linear Types](https://www.cs.princeton.edu/~dpw/papers/space.pdf) by David Walker and Kevin Watkins
   - [ ] [Linear Regions Are All You Need](http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf) by Matthew Fluet, Greg Morrisett and Amal Ahmed
   - [ ] [The Pain Of Real Linear Types in Rust](https://gankro.github.io/blah/linear-rust/) by Alexis Beingessner
-
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
   - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benjamin C. Pierce
+- :movie_camera: **Videos**
+  - [x] [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [ ] [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [ ] [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [ ] [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
+  - [ ] [Substructural Type Systems and Concurrent Programming 1](https://youtu.be/ZW-VWWa1o9g) by Frank Pfenning
+  - [ ] [Substructural Type Systems and Concurrent Programming 2](https://youtu.be/kiQ5e1rhr9w) by Frank Pfenning
+  - [ ] [Substructural Type Systems and Concurrent Programming 3](https://youtu.be/RytTifwjBiM) by Frank Pfenning
+  - [ ] [Substructural Type Systems and Concurrent Programming 4](https://youtu.be/KY5aYhqGKdw) by Frank Pfenning
+  - [ ] [Substructural Type Systems and Concurrent Programming 5](https://youtu.be/lJhixRjDiNE) by Frank Pfenning
   
 ## Lambda Calculus
-  - :movie_camera: **Videos**
-     - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
-     - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
-     - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
+- :movie_camera: **Videos**
+  - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
+  - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
+  - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
   
 ## Data Structures
 
