@@ -7,7 +7,7 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-This study plan attemts to cover a lot of topics related to math and theoretical computer science, but
+This study plan attempts to cover a lot of topics related to math and theoretical computer science, but
 it can miss some applied topics, like mobile or frontend development. Also this plan doesn't (and never
 will) include something related to SEO, advertising, marketing etc.
 
