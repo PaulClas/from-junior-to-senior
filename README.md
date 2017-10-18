@@ -33,6 +33,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Graph Theory](#graph-theory)
 - [Type Theory](#type-theory)
 - [Lambda Calculus](#lambda-calculus)
+- [Pi Calculus](#pi-calculus)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
   - [Basic Algorithms](#basic-algorithms)
@@ -132,6 +133,8 @@ will) include something related to SEO, advertising, marketing etc.
   - [x] [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by nLab
 - :book: **Books**
   - [ ] [Linear Logic](http://www.cs.cmu.edu/~fp/courses/linear/handouts/linear.pdf) by Frank Pfenning
+- :movie_camera: **Videos**
+  - [ ] [Linear Logic is Broken](https://youtu.be/ljYX46pp7hw) by Cassandra Sparks
 
 ## Abstract Algebra
 
@@ -161,7 +164,11 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [ ] [On Regions and Linear Types](https://www.cs.princeton.edu/~dpw/papers/space.pdf) by David Walker and Kevin Watkins
   - [ ] [Linear Regions Are All You Need](http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf) by Matthew Fluet, Greg Morrisett and Amal Ahmed
+  - [ ] [Enriching an Effect Calculus with Linear Types](http://www.itu.dk/people/mogel/papers/ems.pdf) by Jeff Egger, Rasmus Ejlers Møgelberg and Alex Simpson
+  - [ ] [Dependent Type Theory of Stateful Higher-Order Functions](http://ynot.cs.harvard.edu/papers/depstate.pdf) by Aleksandar Nanevski and Greg Morrisett
   - [ ] [The Pain Of Real Linear Types in Rust](https://gankro.github.io/blah/linear-rust/) by Alexis Beingessner
+  - [ ] [Fundamentals of Session Types](https://www.di.fc.ul.pt/~vv/papers/vasconcelos_fundamental-sessions.pdf) by Vasco T. Vasconcelos
+  - [ ] [A Gentle Introduction to Multiparty Asynchronous Session Types](http://mrg.doc.ic.ac.uk/publications/a-gentle-introduction-to-multiparty-asynchronous-session-types/paper.pdf) by Mario Coppo, Mariangiola Dezani-Ciancaglini, Luca Padovani and Nobuko Yoshida
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
   - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benjamin C. Pierce
@@ -175,13 +182,19 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Substructural Type Systems and Concurrent Programming 3](https://youtu.be/RytTifwjBiM) by Frank Pfenning
   - [ ] [Substructural Type Systems and Concurrent Programming 4](https://youtu.be/KY5aYhqGKdw) by Frank Pfenning
   - [ ] [Substructural Type Systems and Concurrent Programming 5](https://youtu.be/lJhixRjDiNE) by Frank Pfenning
+  - [ ] [Linear Logic, Session Types and Deadlock-Freedom](https://youtu.be/R7pJDDNy--k) by Simon Gay
   
 ## Lambda Calculus
 - :movie_camera: **Videos**
   - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
   - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
   - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
-  
+
+## Pi Calculus
+- :pencil: **Articles**
+  - [ ] [A compositional semantics for the reversible pi-calculus](https://hal-univ-diderot.archives-ouvertes.fr/hal-00840156/document) by Ioana Domnina Cristescu, Jean Krivine and Daniele Varacca
+  - [ ] [Reversible Structures](http://www.cs.unibo.it/~laneve/papers/ReversibleStructures.pdf) by Luca Cardelli and Cosimo Laneve
+
 ## Data Structures
 
 - :pencil: **Articles**
