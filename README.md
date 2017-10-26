@@ -131,6 +131,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [x] [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by nLab
   - [x] [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by nLab
+  - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
 - :book: **Books**
   - [ ] [Linear Logic](http://www.cs.cmu.edu/~fp/courses/linear/handouts/linear.pdf) by Frank Pfenning
 - :movie_camera: **Videos**
