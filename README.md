@@ -76,6 +76,7 @@ will) include something related to SEO, advertising, marketing etc.
 - [Security](#security)
   - [Cryptography](#cryptography)
   - [Web Applications Security](#web-applications-security)
+- [Blockchain](#blockchain)
 - [Testing](#testing)
   - [TDD](#tdd)
   - [BDD](#bdd)
@@ -288,6 +289,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [x] [Transducers in Clojure](https://clojure.org/reference/transducers)
+  - [ ] [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) by FP Complete
+  - [ ] [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad) by FP Complete
 - :movie_camera: **Videos**
   - [x] [Immutable data structures for functional JS](https://youtu.be/Wo0qiGPSV-s) by Anjana Vakil
   
@@ -412,6 +415,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 ### Cryptography
 
+- :pencil: **Articles**
+  - [ ] [Cryptographic Hashing in Haskell](https://www.fpcomplete.com/blog/2017/09/cryptographic-hashing-haskell) by FP Complete
 - :mortar_board: **Courses**
   - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
 
@@ -421,6 +426,12 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
   - [ ] [Hacksplaining](https://www.hacksplaining.com/)
   - [ ] [XSS Game](https://xss-game.appspot.com/)
+  
+
+## Blockchain
+
+- :paperclip: **Cheat Sheets**
+  - [Exonum Documentation](https://exonum.com/doc/)
 
 ## See also
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
