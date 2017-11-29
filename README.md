@@ -201,6 +201,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) by Algosaurus
+  - [x] :ru: [Что такое хеш-таблицы и как они работают](https://ruhighload.com/post/%D0%A7%D1%82%D0%BE+%D1%82%D0%B0%D0%BA%D0%BE%D0%B5+%D1%85%D0%B5%D1%88-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B+%D0%B8+%D0%BA%D0%B0%D0%BA+%D0%BE%D0%BD%D0%B8+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82) by RuHighload
 - :mortar_board: **Courses**
   - [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by UC San Diego and HSE
 
@@ -383,6 +384,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 ### Client-side
 
+- :pencil: **Articles**
+  - 
 - :mortar_board: **Courses**
   - [Codecademy](https://www.codecademy.com)
     - [x] [Learn AngularJS](https://www.codecademy.com/courses/learn-angularjs)
