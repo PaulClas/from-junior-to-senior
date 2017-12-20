@@ -285,6 +285,8 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Retracing Original Object-Oriented Programming](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50) by A. T. Herlangga
 - :book: **Books**
   - [ ] [A Theory of Objects](https://www.amazon.com/Theory-Objects-Monographs-Computer-Science/dp/0387947752) by M. Abadi, L. Cardelli
+- :book: **Books**
+  - [ ] [Object Thinking](https://www.amazon.com/Object-Thinking-Developer-Reference-David/dp/0735619654) by David West
 
 ### Functional Programming
 
