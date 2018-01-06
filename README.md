@@ -50,6 +50,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Logic Programming](#logic-programming)
   - [Actor Model](#actor-model)
 - [Design Patterns](#design-patterns)
+- [Domain-Driven Design](#domain-driven-design)
 - [Computer Architecture](#computer-architecture)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
@@ -302,7 +303,14 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [ ] [Why has the actor model not succeeded?](http://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol2/pjm2/) by P. Mackay
 - :book: **Books**
-  - [ ] [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka](https://www.amazon.com/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830) by by V. Vernon
+  - [ ] [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka](https://www.amazon.com/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830) by Vaughn Vernon
+
+## Domain-Driven Design
+
+- :book: **Books**
+  - [ ] [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://www.amazon.com/dp/0321125215/ref=cm_sw_su_dp) by Eric Evans
+  - [ ] [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) by Vaughn Vernon
+  - [ ] [Domain-Driven Design Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) by Eric Evans
 
 ## Computer Architecture
 
