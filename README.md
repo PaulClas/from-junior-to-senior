@@ -499,3 +499,4 @@ Forums, Q&A:
   - [Repl.It](https://repl.it/) — a REPL, compiler & IDE
   - [RunKit](https://runkit.com/) — a Node prototyping tool
   - [Reepl](http://jaredforsyth.com/reepl/) — an online ClojureScript REPL
+  - [Pointfree.io](http://pointfree.io/) — an online tool that converts Haskell code to it's pointfree version
