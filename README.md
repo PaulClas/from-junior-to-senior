@@ -23,10 +23,9 @@ will) include something related to SEO, advertising, marketing etc.
 - [Calculus](#calculus)
 - [Functional Analysis](#functional-analysis)
 - [Geometry](#geometry)
-  - [Analytic Geometry](#analytic-geometry)
-- [Linear Algebra](#linear-algebra)
 - [Mathematical Logic](#mathematical-logic)
-- [Abstract Algebra](#abstract-algebra)
+- [Algebra](#algebra)
+  - [Linear Algebra](#linear-algebra)
 - [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
 - [Discrete Mathematics](#discrete-mathematics)
@@ -115,18 +114,8 @@ will) include something related to SEO, advertising, marketing etc.
   
 ## Geometry
 
-### Analytic Geometry
-
 - :mortar_board: **Courses**
   - [x] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
-
-## Linear Algebra
-
-- :mortar_board: **Courses**
-  - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-    - [x] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
-    - [x] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
-    - [x] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
 ## Mathematical Logic
 
@@ -139,16 +128,29 @@ will) include something related to SEO, advertising, marketing etc.
 - :movie_camera: **Videos**
   - [ ] [Linear Logic is Broken](https://youtu.be/ljYX46pp7hw) by Cassandra Sparks
 
-## Abstract Algebra
+## Algebra
 
 - :book: **Books**
   - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
+- :mortar_board: **Courses**
+  - [ ] [Algebra I](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/) by MIT OpenCourseWare
+  - [ ] [Algebra II](https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/) by MIT OpenCourseWare
+
+### Linear Algebra
+
+- :mortar_board: **Courses**
+  - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+    - [x] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+    - [x] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+    - [x] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
 ## Category Theory
 
 - :book: **Books**
   - [ ] [Basic Category Theory for Computer Scientists](https://www.amazon.com/Category-Computer-Scientists-Foundations-Computing/dp/0262660717) by Benjamin C. Pierce
   - [ ] [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski
+- :mortar_board: **Courses**
+  - [ ] [Category Category for Scientists](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/) by MIT OpenCourseWare
 
 ## Combinatorics and Probability
 
@@ -211,6 +213,8 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
   - [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=261YMEZJ1FKVM8BHZZFH) by Harold Abelson, Gerald Jay Sussman and Julie Sussman
+- :mortar_board: **Courses**
+  - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) by MIT OpenCourseWare
 
 ### Basic algorithms
 
@@ -359,6 +363,9 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :book: **Books**
   - [ ] [Write You a Haskell](http://dev.stephendiehl.com/fun/) by Stephen Diehl
+  
+- :mortar_board: **Courses**
+  - [ ] [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/) by MIT OpenCourseWare
 
 #### Interpreters
 
@@ -432,6 +439,10 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [Cryptographic Hashing in Haskell](https://www.fpcomplete.com/blog/2017/09/cryptographic-hashing-haskell) by FP Complete
 - :mortar_board: **Courses**
   - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
+  - [ ] [Network and Computer Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/) by MIT OpenCourseWare
+  - [ ] [Cryptography and Cryptoanalysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/) by MIT OpenCourseWare
+  - [ ] [Advanced Topics in Cryptography](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/) by MIT OpenCourseWare
+  - [ ] [Elliptic Curves](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2017/) by MIT OpenCourseWare
 
 ### Web Applications Security
 
