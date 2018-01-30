@@ -7,16 +7,22 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-This study plan attempts to cover a lot of topics related to math and theoretical computer science, but
-it can miss some applied topics, like mobile or frontend development. Also this plan doesn't (and never
-will) include something related to SEO, advertising, marketing etc.
-
 ## Usage
 
 1. Fork this repo
 2. Mark all items as undone
 3. Add missing topics (optional)
 4. Study!
+5. Discuss covered topics in our [telegram chat](https://t.me/junior_to_senior)
+
+If you want to suggest a good information source, you can just [open an issue](https://github.com/KolesnichenkoDS/from-junior-to-senior/issues). You can also open an issue if you think that some source (article/book/video/etc) should be removed or replaced with something else.
+
+## FAQ
+
+**Q: Do I really have to know all of these to become a good software engineer?**
+
+**A**: No, you don't. Actually, I think that nobody is able to learn 100% of what is covered here. It is just a
+list of something I've already learned or **maybe** will learn some time (maybe not).
 
 ## Table of contents
 
@@ -413,6 +419,14 @@ will) include something related to SEO, advertising, marketing etc.
 
 ### SQL Databases
 
+- :pencil: **Articles**
+  - [ ] [Understanding PostgreSQL locks](http://shiroyasha.io/understanding-postgresql-locks.html) by Igor Sarcevic
+  - [ ] [Advisory Locks and How to Use Them](http://shiroyasha.io/advisory-locks-and-how-to-use-them.html) by Igor Sarcevic
+  - [ ] [Selecting for Share and Update in PostgreSQL](http://shiroyasha.io/selecting-for-share-and-update-in-postgresql.html) by Igor Sarcevic
+  - [ ] [Transaction Isolation Levels in PostgreSQL](http://shiroyasha.io/transaction-isolation-levels-in-postgresql.html)
+  - [ ] [Multi Version Concurrency Control](http://shiroyasha.io/multiversion-concurrency-control.html) by Igor Sarcevic
+  - [ ] [Deadlocks in PostgreSQL](http://shiroyasha.io/deadlocks-in-postgresql.html) by Igor Sarcevic
+  - [ ] [The PostgreSQL Query Cost Model](http://shiroyasha.io/the-postgresql-query-cost-model.html) by Igor Sarcevic
 - :mortar_board: **Courses**
   - [Codecademy](https://www.codecademy.com)
     - [ ] [Learn SQL](https://www.codecademy.com/courses/learn-sql)
