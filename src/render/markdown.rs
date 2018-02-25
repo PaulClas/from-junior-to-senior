@@ -1,6 +1,7 @@
 use tags::Tag;
 use items::ListItem;
 use items::ListItemType;
+use tags::get_tags_with_children;
 
 pub fn progress_bar_color(progress: f32) -> String {
     if progress == 0.0 {
@@ -76,7 +77,7 @@ pub fn render_toc_vec(tags: &Vec<Tag>) -> Vec<String> {
     for tag in tags {
         let title = tag.clone().title;
         let children = tag.clone().children;
-        result.push(format!("- [{0}]({1})", &title, tag_name_to_link(&title)));
+        result.push(format!("- [{0}](#{1})", &title, tag_name_to_link(&title)));
 
         let children = render_toc_vec(&children);
 
@@ -94,7 +95,7 @@ pub fn tag_name_to_link(tag: &String) -> String {
     let mut result = String::new();
 
     for (i, part) in splitted.enumerate() {
-        let part = part.chars().filter(|c| { c.is_ascii_alphabetic() }).collect::<String>().to_lowercase();
+        let part = part.chars().filter(|c| { c.is_ascii_alphabetic() || *c == '-' }).collect::<String>().to_lowercase();
         result = if i == 0 { part } else { format!("{0}-{1}", result, part) }
     }
 
@@ -116,6 +117,16 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
         lines.push("".to_owned());
         lines.push(tag_header);
         lines.push("".to_owned());
+
+        let tag_with_children = get_tags_with_children(&vec![tag.clone()]);
+
+        let tag_items: Vec<_> = items.iter().filter(|i| {
+            i.tags.iter().any(|t| {
+                tag_with_children.iter().any(|tw| { *tw == *t })
+            })
+        }).map(|x| { x.clone() }).collect();
+
+        lines.push(render_stats(&tag_items));
 
         for item_type in vec![Cheatsheet, Article, Book, Course, Video] {
             let items = items.iter()

@@ -24,7 +24,7 @@ vim resources/todo.json
 cargo run -- resources/ -f json -F markdown -o README.md
 ```
 
-If you want to suggest a good information source, you can just [open an issue](https://github.com/KolesnichenkoDS/from-junior-to-senior/issues). You can also open an issue if you think that some source (article/book/video/etc) should be removed or replaced with something else.
+If you want to suggest a resource, you can just [open an issue](https://github.com/KolesnichenkoDS/from-junior-to-senior/issues).
 
 ## Stats
 

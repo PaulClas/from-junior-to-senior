@@ -55,6 +55,7 @@ impl ListItemType {
 }
 
 #[derive(Serialize, Deserialize)]
+#[derive(Clone)]
 pub enum ListItemLanguage {
     English,
     Russian,
@@ -70,6 +71,7 @@ impl ListItemLanguage {
 }
 
 #[derive(Serialize, Deserialize)]
+#[derive(Clone)]
 pub struct ListItemAuthor {
     name: String,
     link: Option<String>,
@@ -84,6 +86,7 @@ impl ListItemAuthor {
 }
 
 #[derive(Serialize, Deserialize)]
+#[derive(Clone)]
 pub struct ListItem {
     pub title: String,
     pub link: String,
