@@ -1,0 +1,279 @@
+[
+  {
+    "title": "Calculus",
+    "children": []
+  },
+  {
+    "title": "Functional Analysis",
+    "children": []
+  },
+  {
+    "title": "Geometry",
+    "children": []
+  },
+  {
+    "title": "Logic",
+    "children": [
+      {
+        "title": "Linear Logic",
+        "children": [
+          {
+            "title": "Linear Lambda Calculus",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Algebra",
+    "children": [
+      {
+        "title": "Linear Algebra",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Category Theory",
+    "children": []
+  },
+  {
+    "title": "Combinatorics and Probability",
+    "children": []
+  },
+  {
+    "title": "Discrete Mathematics",
+    "children": []
+  },
+  {
+    "title": "Type Theory",
+    "children": []
+  },
+  {
+    "title": "Lambda Calculus",
+    "children": [
+      {
+        "title": "Linear Lambda Calculus",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pi Calculus",
+    "children": []
+  },
+  {
+    "title": "Data Structures",
+    "children": []
+  },
+  {
+    "title": "Algorithms",
+    "children": [
+      {
+        "title": "Basic Algorithms",
+        "children": [
+          {
+            "title": "Sorting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Complexity",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Programming Languages",
+    "children": [
+      {
+        "title": "Java",
+        "children": []
+      },
+      {
+        "title": "Kotlin",
+        "children": []
+      },
+      {
+        "title": "Scala",
+        "children": []
+      },
+      {
+        "title": "C Sharp",
+        "children": []
+      },
+      {
+        "title": "Haskell",
+        "children": []
+      },
+      {
+        "title": "Rust",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Programming Platforms",
+    "children": [
+      {
+        "title": "JVM",
+        "children": []
+      },
+      {
+        "title": ".NET",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Programming Paradigms",
+    "children": [
+      {
+        "title": "Object-Oriented Programming",
+        "children": []
+      },
+      {
+        "title": "Functional Progamming",
+        "children": []
+      },
+      {
+        "title": "Logic Programming",
+        "children": []
+      },
+      {
+        "title": "Actor Model",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Design Patterns",
+    "children": []
+  },
+  {
+    "title": "Domain-Driven Design",
+    "children": []
+  },
+  {
+    "title": "Computer Architecture",
+    "children": []
+  },
+  {
+    "title": "Systems Programming",
+    "children": [
+      {
+        "title": "Operating Systems",
+        "children": [
+          {
+            "title": "Linux",
+            "children": []
+          },
+          {
+            "title": "Windows",
+            "children": []
+          },
+          {
+            "title": "macOS",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Compilers and Interpreters",
+    "children": [
+      {
+        "title": "Compilers",
+        "children": []
+      },
+      {
+        "title": "Interpreters",
+        "children": []
+      },
+      {
+        "title": "Garbage Collection",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Networks",
+    "children": []
+  },
+  {
+    "title": "Web Development",
+    "children": [
+      {
+        "title": "Frontend",
+        "children": []
+      },
+      {
+        "title": "Backend",
+        "children": [
+          {
+            "title": "Model-View-Controller",
+            "children": []
+          },
+          {
+            "title": "Microservices",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Web Applications Security",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Databases",
+    "children": [
+      {
+        "title": "SQL Databases",
+        "children": []
+      },
+      {
+        "title": "NoSQL Databases",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Concurrency and Parallelism",
+    "children": [
+      {
+        "title": "Multithreading",
+        "children": []
+      },
+      {
+        "title": "SIMD",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Security",
+    "children": [
+      {
+        "title": "Cryptography",
+        "children": []
+      },
+      {
+        "title": "Web Applications Security",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Blockchain",
+    "children": []
+  },
+  {
+    "title": "Testing",
+    "children": []
+  }
+]

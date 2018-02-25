@@ -1,0 +1,65 @@
+[
+  {
+    "title": "An Intuitive Introduction to Limits",
+    "link": "https://betterexplained.com/articles/an-intuitive-introduction-to-limits",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Better Explained",
+        "link": "https://betterexplained.com/"
+      }
+    ],
+    "tags": [
+      "Calculus"
+    ],
+    "done": true
+  },
+  {
+    "title": "Краткий курс математического анализа",
+    "link": "http://nuclphys.sinp.msu.ru/mathan/",
+    "item_type": "Book",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Lev Kudryavtsev"
+      }
+    ],
+    "tags": [
+      "Calculus"
+    ],
+    "done": true
+  },
+  {
+    "title": "Sequent Calculus",
+    "link": "https://ncatlab.org/nlab/show/sequent+calculus",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "nLab",
+        "link": "https://ncatlab.org/"
+      }
+    ],
+    "tags": [
+      "Logic"
+    ],
+    "done": true
+  },
+  {
+    "title": "Linear Logic",
+    "link": "https://ncatlab.org/nlab/show/linear+logic",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "nLab",
+        "link": "https://ncatlab.org/"
+      }
+    ],
+    "tags": [
+      "Linear Logic"
+    ],
+    "done": true
+  }
+]
