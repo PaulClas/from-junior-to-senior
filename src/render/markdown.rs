@@ -114,19 +114,20 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
     for tag in tags {
         let tag_header = format!("{0} {1}", "#".repeat(level), tag.title);
 
-        lines.push("".to_owned());
-        lines.push(tag_header);
-        lines.push("".to_owned());
-
         let tag_with_children = get_tags_with_children(&vec![tag.clone()]);
-
         let tag_items: Vec<_> = items.iter().filter(|i| {
             i.tags.iter().any(|t| {
                 tag_with_children.iter().any(|tw| { *tw == *t })
             })
         }).map(|x| { x.clone() }).collect();
 
-        lines.push(render_stats(&tag_items));
+        if (tag_items.len() != 0) {
+            lines.push("".to_owned());
+            lines.push(tag_header);
+            lines.push("".to_owned());
+
+            lines.push(render_stats(&tag_items));
+        }
 
         for item_type in vec![Cheatsheet, Article, Book, Course, Video] {
             let items = items.iter()
@@ -143,7 +144,7 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             }
         }
 
-        lines.push(render_list_with_level(&tag.children, items, level + 1))
+        lines.push(render_list_with_level(&tag.children, items, level + 1));
     }
 
     lines.join("\n")
