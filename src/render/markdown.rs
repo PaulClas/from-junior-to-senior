@@ -52,15 +52,15 @@ pub fn render_stats(items: &Vec<ListItem>) -> String {
 
     let progress = if total_done == 0.0 { 0.0 } else { total_done / total };
 
-    stat_items.push("| | |".to_owned());
-    stat_items.push(render_stats_item("Total".to_owned(), progress));
+//    stat_items.push("| | |".to_owned());
+    stat_items.push(render_stats_item("__Total__".to_owned(), progress));
 
     stat_items.join("\n")
 }
 
 pub fn render_stats_item(title: String, progress: f32) -> String {
     format!(
-        "| __{0}__ | ![{1}](http://www.yarntomato.com/percentbarmaker/button.php?barPosition={1}&leftFill=%23{2}) |",
+        "| {0} | ![{1}](http://www.yarntomato.com/percentbarmaker/button.php?barPosition={1}&leftFill=%23{2}) |",
         title,
         (progress * 100.0) as i32,
         progress_bar_color(progress)

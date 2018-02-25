@@ -30,11 +30,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| __Articles__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Books__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Courses__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Videos__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| | |
+| Articles | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Books | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
 
 ## Table of contents
@@ -110,11 +109,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| __Articles__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Books__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Courses__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Videos__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| | |
+| Articles | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Books | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
 - :pencil: __Articles__
   - [x] :us: [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by [Better Explained](https://betterexplained.com/)
@@ -128,11 +126,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| __Articles__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Books__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Courses__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Videos__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| | |
+| Articles | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
 - :pencil: __Articles__
   - [x] :us: [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by [nLab](https://ncatlab.org/)
@@ -141,11 +138,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| __Articles__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
-| __Books__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Courses__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| __Videos__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
-| | |
+| Articles | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%23ff0000) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%2300ff00) |
 - :pencil: __Articles__
   - [x] :us: [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by [nLab](https://ncatlab.org/)
