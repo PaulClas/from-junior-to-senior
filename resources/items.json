@@ -61,5 +61,149 @@
       "Linear Logic"
     ],
     "done": true
+  },
+  {
+    "title": "An Interactive Guide to the Fourier Transform",
+    "link": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Better Explained",
+        "link": "https://betterexplained.com/"
+      }
+    ],
+    "tags": [
+      "Functional Analysis"
+    ],
+    "done": false
+  },
+  {
+    "title": "Analytic Geometry",
+    "link": "https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Khan Academy",
+        "link": "https://www.khanacademy.org/"
+      }
+    ],
+    "tags": [
+      "Functional Analysis"
+    ],
+    "done": true
+  },
+  {
+    "title": "Линейная логика (реферат по истории математики)",
+    "link": "https://www.docme.ru/doc/925474/linejnaya-logika",
+    "item_type": "Article",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Alexandr Kharitonov"
+      }
+    ],
+    "tags": [
+      "Linear Logic"
+    ],
+    "done": false
+  },
+  {
+    "title": "Algebra: Chapter 0",
+    "link": "https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813",
+    "item_type": "Book",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Paolo Aluffi"
+      }
+    ],
+    "tags": [
+      "Algebra"
+    ],
+    "done": false
+  },
+  {
+    "title": "Algebra I",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [
+      {
+        "name": "MIT OpenCourseWare",
+        "link": "https://ocw.mit.edu/"
+      }
+    ],
+    "tags": [
+      "Algebra"
+    ],
+    "done": false
+  },
+  {
+    "title": "Algebra II",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [
+      {
+        "name": "MIT OpenCourseWare",
+        "link": "https://ocw.mit.edu/"
+      }
+    ],
+    "tags": [
+      "Algebra"
+    ],
+    "done": false
+  },
+  {
+    "title": "Category Theory for Programmers",
+    "link": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+    "item_type": "Book",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Bartosz Milewski",
+        "link": "https://bartoszmilewski.com/"
+      }
+    ],
+    "tags": [
+      "Category Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Basic Theoretical Probability",
+    "link": "https://www.khanacademy.org/math/statistics-probability/probability-library",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Khan Academy",
+        "link": "https://www.khanacademy.org/"
+      }
+    ],
+    "tags": [
+      "Combinatorics and Probability"
+    ],
+    "done": false
+  },
+  {
+    "title": "Linear and Dependent Types 1",
+    "link": "https://youtu.be/5i3YDgQyIwE",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus",
+      "Dependent Types"
+    ],
+    "done": true
   }
 ]

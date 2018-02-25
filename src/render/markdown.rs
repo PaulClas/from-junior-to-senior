@@ -3,22 +3,6 @@ use items::ListItem;
 use items::ListItemType;
 use tags::get_tags_with_children;
 
-pub fn progress_bar_color(progress: f32) -> String {
-    if progress == 0.0 {
-        "ff0000".to_owned()
-    } else if progress == 0.5 {
-        "ffff00".to_owned()
-    } else if progress == 1.0 {
-        "00ff00".to_owned()
-    } else if progress < 0.5 {
-        let green = 255.0 * progress;
-        format!("ff{0:02x}00", green as i32)
-    } else {
-        let red = 255.0 * (100.0 - progress) / 100.0;
-        format!("{0:02x}ff00", red as i32)
-    }
-}
-
 pub fn render_stats(items: &Vec<ListItem>) -> String {
     use items::ListItemType::*;
 
@@ -63,7 +47,7 @@ pub fn render_stats_item(title: String, progress: f32) -> String {
         "| {0} | ![{1}](http://www.yarntomato.com/percentbarmaker/button.php?barPosition={1}&leftFill=%23{2}) |",
         title,
         (progress * 100.0) as i32,
-        progress_bar_color(progress)
+        "6699ff"
     )
 }
 

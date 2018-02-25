@@ -16,12 +16,7 @@
     "children": [
       {
         "title": "Linear Logic",
-        "children": [
-          {
-            "title": "Linear Lambda Calculus",
-            "children": []
-          }
-        ]
+        "children": []
       }
     ]
   },
@@ -48,7 +43,12 @@
   },
   {
     "title": "Type Theory",
-    "children": []
+    "children": [
+      {
+        "title": "Linear Type Theory",
+        "children": []
+      }
+    ]
   },
   {
     "title": "Lambda Calculus",
