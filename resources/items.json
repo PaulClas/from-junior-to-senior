@@ -205,5 +205,276 @@
       "Dependent Types"
     ],
     "done": true
+  },
+  {
+    "title": "JVM Anatomy Park #1: Lock Coarsening and Loops",
+    "link": "https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Multithreading",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #2: Transparent Huge Pages",
+    "link": "https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #3: GC Design and Pauses",
+    "link": "https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #4: TLAB Allocation",
+    "link": "https://shipilev.net/jvm-anatomy-park/4-tlab-allocation",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #5: TLABs and Heap Parsebility",
+    "link": "https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #6: New Object Stages",
+    "link": "https://shipilev.net/jvm-anatomy-park/6-new-object-stages",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #7: Object Initialization Costs",
+    "link": "https://shipilev.net/jvm-anatomy-park/7-initialization-costs",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #8: Local Variable Reachability",
+    "link": "https://shipilev.net/jvm-anatomy-park/8-local-var-reachability",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #9: JNI Critical and GC Locker",
+    "link": "https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #10: String.intern()",
+    "link": "https://shipilev.net/jvm-anatomy-park/10-string-intern",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #11: Moving GC and Locality",
+    "link": "https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #12: Native Memory Tracking",
+    "link": "https://shipilev.net/jvm-anatomy-park/12-native-memory-tracking",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #13: Integrational Barriers",
+    "link": "https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #14: Constant Variables",
+    "link": "https://shipilev.net/jvm-anatomy-park/14-constant-variables",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #15: Just-In-Time Constants",
+    "link": "https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "JVM",
+      "Compilers"
+    ],
+    "done": false
   }
 ]

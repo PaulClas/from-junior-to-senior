@@ -30,11 +30,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![60](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%236699ff) |
+| Articles | ![15](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%236699ff) |
 | Books | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Courses | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![46](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=46&leftFill=%236699ff) |
+| __Total__ | ![21](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=21&leftFill=%236699ff) |
 
 </details>
 
@@ -425,6 +425,142 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Programming Languages
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+### Java
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #3: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #4: TLAB Allocation](https://shipilev.net/jvm-anatomy-park/4-tlab-allocation) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #5: TLABs and Heap Parsebility](https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #6: New Object Stages](https://shipilev.net/jvm-anatomy-park/6-new-object-stages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #7: Object Initialization Costs](https://shipilev.net/jvm-anatomy-park/7-initialization-costs) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #9: JNI Critical and GC Locker](https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #10: String.intern()](https://shipilev.net/jvm-anatomy-park/10-string-intern) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #11: Moving GC and Locality](https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #12: Native Memory Tracking](https://shipilev.net/jvm-anatomy-park/12-native-memory-tracking) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #14: Constant Variables](https://shipilev.net/jvm-anatomy-park/14-constant-variables) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #15: Just-In-Time Constants](https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants) by [Aleksey Shipilev](https://shipilev.net/)
+
+</details>
+
+
+
+
+
+
+
+
+## Programming Platforms
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+### JVM
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #3: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #4: TLAB Allocation](https://shipilev.net/jvm-anatomy-park/4-tlab-allocation) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #5: TLABs and Heap Parsebility](https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #6: New Object Stages](https://shipilev.net/jvm-anatomy-park/6-new-object-stages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #7: Object Initialization Costs](https://shipilev.net/jvm-anatomy-park/7-initialization-costs) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #9: JNI Critical and GC Locker](https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #10: String.intern()](https://shipilev.net/jvm-anatomy-park/10-string-intern) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #11: Moving GC and Locality](https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #12: Native Memory Tracking](https://shipilev.net/jvm-anatomy-park/12-native-memory-tracking) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #14: Constant Variables](https://shipilev.net/jvm-anatomy-park/14-constant-variables) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #15: Just-In-Time Constants](https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants) by [Aleksey Shipilev](https://shipilev.net/)
+
+</details>
 
 
 
@@ -439,6 +575,98 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Compilers and Interpreters
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+### Compilers
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #14: Constant Variables](https://shipilev.net/jvm-anatomy-park/14-constant-variables) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #15: Just-In-Time Constants](https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants) by [Aleksey Shipilev](https://shipilev.net/)
+
+</details>
+
+
+
+
+### Garbage Collection
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #3: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #4: TLAB Allocation](https://shipilev.net/jvm-anatomy-park/4-tlab-allocation) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #5: TLABs and Heap Parsebility](https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #6: New Object Stages](https://shipilev.net/jvm-anatomy-park/6-new-object-stages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #7: Object Initialization Costs](https://shipilev.net/jvm-anatomy-park/7-initialization-costs) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #9: JNI Critical and GC Locker](https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #10: String.intern()](https://shipilev.net/jvm-anatomy-park/10-string-intern) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #11: Moving GC and Locality](https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
+
+</details>
 
 
 
@@ -449,8 +677,56 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Concurrency and Parallelism
 
 
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+### Multithreading
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
+
+</details>
 
 
 
