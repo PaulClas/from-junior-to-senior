@@ -28,13 +28,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Stats
 
-{{ stats }}
+{{{ stats }}}
 
 ## Table of contents
 
-{{ table_of_contents }}
+{{{ table_of_contents }}}
 
-{{ content }}
+{{{ content }}}
 
 ## See also
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
