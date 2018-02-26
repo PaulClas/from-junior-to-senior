@@ -63,6 +63,7 @@ fn main() {
     let items_file_path = Path::new(resources_dir).join("items.json");
     let tags_file_path = Path::new(resources_dir).join("tags.json");
     let template_file_path = Path::new(resources_dir).join("template.md");
+    let output_file_path = Path::new("./").join(output_file);
 
     let items_json = read_file(items_file_path);
     let tags_json = read_file(tags_file_path);
@@ -85,7 +86,10 @@ fn main() {
         .build();
 
     let template = mustache::compile_str(template.as_ref()).unwrap();
-    template.render_data(&mut io::stdout(), &data).unwrap();
+
+    let mut output_file = File::create(output_file_path).expect("failed to open output file");
+
+    template.render_data(&mut output_file, &data).unwrap();
 }
 
 fn read_file(path: PathBuf) -> String {
