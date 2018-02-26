@@ -30,11 +30,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![15](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%236699ff) |
+| Articles | ![12](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=12&leftFill=%236699ff) |
 | Books | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Courses | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![21](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=21&leftFill=%236699ff) |
+| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
 
 </details>
 
@@ -484,6 +484,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #14: Constant Variables](https://shipilev.net/jvm-anatomy-park/14-constant-variables) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #15: Just-In-Time Constants](https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #16: Megamorphic Virtual Calls](https://shipilev.net/jvm-anatomy-park/16-megamorphic-virtual-calls) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #17: Trust Non-Static Final Fields](https://shipilev.net/jvm-anatomy-park/17-trust-nonstatic-final-fields) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #18: Scalar Replacement](https://shipilev.net/jvm-anatomy-park/18-scalar-replacement) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #19: Lock Elision](https://shipilev.net/jvm-anatomy-park/19-lock-elision) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #20: FPU Spills](https://shipilev.net/jvm-anatomy-park/20-fpu-spills) by [Aleksey Shipilev](https://shipilev.net/)
 
 </details>
 
@@ -555,6 +560,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #14: Constant Variables](https://shipilev.net/jvm-anatomy-park/14-constant-variables) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #15: Just-In-Time Constants](https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #16: Megamorphic Virtual Calls](https://shipilev.net/jvm-anatomy-park/16-megamorphic-virtual-calls) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #17: Trust Non-Static Final Fields](https://shipilev.net/jvm-anatomy-park/17-trust-nonstatic-final-fields) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #18: Scalar Replacement](https://shipilev.net/jvm-anatomy-park/18-scalar-replacement) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #19: Lock Elision](https://shipilev.net/jvm-anatomy-park/19-lock-elision) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #20: FPU Spills](https://shipilev.net/jvm-anatomy-park/20-fpu-spills) by [Aleksey Shipilev](https://shipilev.net/)
 
 </details>
 

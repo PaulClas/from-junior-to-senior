@@ -461,5 +461,90 @@
       "Compilers"
     ],
     "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #16: Megamorphic Virtual Calls",
+    "link": "https://shipilev.net/jvm-anatomy-park/16-megamorphic-virtual-calls",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #17: Trust Non-Static Final Fields",
+    "link": "https://shipilev.net/jvm-anatomy-park/17-trust-nonstatic-final-fields",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #18: Scalar Replacement",
+    "link": "https://shipilev.net/jvm-anatomy-park/18-scalar-replacement",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #19: Lock Elision",
+    "link": "https://shipilev.net/jvm-anatomy-park/19-lock-elision",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "JVM Anatomy Park #20: FPU Spills",
+    "link": "https://shipilev.net/jvm-anatomy-park/20-fpu-spills",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksey Shipilev",
+        "link": "https://shipilev.net/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Compilers"
+    ],
+    "done": false
   }
 ]
