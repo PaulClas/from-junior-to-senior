@@ -26,7 +26,7 @@ cargo run -- resources/ -f json -F markdown -o README.md
 
 If you want to suggest a resource, you can just [open an issue](https://github.com/KolesnichenkoDS/from-junior-to-senior/issues).
 
-## Stats
+## Statistics
 
 | Resource type | Progress |
 | --- | --- |
@@ -112,7 +112,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -134,7 +134,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -157,7 +157,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -176,7 +176,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -199,7 +199,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -222,7 +222,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -242,7 +242,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -263,7 +263,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -280,7 +280,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -300,7 +300,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
@@ -317,7 +317,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 <details>
-<summary>Stats</summary>
+<summary>show statistics</summary>
 
 | Resource type | Progress |
 | --- | --- |
