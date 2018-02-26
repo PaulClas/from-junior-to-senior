@@ -124,10 +124,18 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :pencil: __Articles__
   - [x] :us: [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by [Better Explained](https://betterexplained.com/)
 - :book: __Books__
   - [x] :ru: [Краткий курс математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
+
+</details>
+
 
 
 ## Functional Analysis
@@ -146,10 +154,18 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :pencil: __Articles__
   - [ ] :us: [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by [Better Explained](https://betterexplained.com/)
 - :mortar_board: __Courses__
   - [x] :us: [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by [Khan Academy](https://www.khanacademy.org/)
+
+</details>
+
 
 
 
@@ -169,8 +185,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :pencil: __Articles__
   - [x] :us: [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by [nLab](https://ncatlab.org/)
+
+</details>
+
 
 ### Linear Logic
 
@@ -188,11 +212,19 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :pencil: __Articles__
   - [x] :us: [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by [nLab](https://ncatlab.org/)
   - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+
+</details>
+
 
 
 ## Algebra
@@ -211,11 +243,19 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :book: __Books__
   - [ ] :us: [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 - :mortar_board: __Courses__
   - [ ] :us: [Algebra I](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/) by [MIT OpenCourseWare](https://ocw.mit.edu/)
   - [ ] :us: [Algebra II](https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/) by [MIT OpenCourseWare](https://ocw.mit.edu/)
+
+</details>
+
 
 
 ## Category Theory
@@ -234,8 +274,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :book: __Books__
   - [ ] :us: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by [Bartosz Milewski](https://bartoszmilewski.com/)
+
+</details>
+
 
 
 ## Combinatorics and Probability
@@ -254,8 +302,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :mortar_board: __Courses__
   - [ ] :us: [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by [Khan Academy](https://www.khanacademy.org/)
+
+</details>
+
 
 
 
@@ -276,6 +332,14 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 </details>
 
 
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
 ### Linear Type Theory
 
 
@@ -292,8 +356,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+
+</details>
+
 
 
 ## Lambda Calculus
@@ -309,6 +381,14 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
 
 </details>
 
@@ -329,8 +409,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 </details>
 
+
+
+<details>
+<summary>Resources</summary>
+
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+
+</details>
+
 
 
 

@@ -117,6 +117,9 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             lines.push("".to_owned());
 
             lines.push(render_stats(&tag_items, true));
+
+            lines.push("".to_owned());
+            lines.push("\n<details>\n<summary>Resources</summary>\n".to_owned());
         }
 
         for item_type in vec![Cheatsheet, Article, Book, Course, Video] {
@@ -132,6 +135,10 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             for item in items {
                 lines.push(format!("  {0}", item.to_markdown()));
             }
+        }
+
+        if (tag_items.len() != 0) {
+            lines.push("\n</details>\n".to_owned());
         }
 
         lines.push(render_list_with_level(&tag.children, items, level + 1));
