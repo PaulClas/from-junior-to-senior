@@ -74,7 +74,7 @@ fn main() {
     let items = items.expect("failed to parse items.json");
     let tags = tags.expect("failed to parse tags.json");
 
-    let stats = render_stats(&items.0);
+    let stats = render_stats(&items.0, false);
     let toc = render_toc(&tags.0);
     let list = render_list(&tags.0, &items.0);
 

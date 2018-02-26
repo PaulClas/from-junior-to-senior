@@ -35,6 +35,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![46](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=46&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 
 ## Table of contents
 
@@ -107,6 +108,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Calculus
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
@@ -114,6 +117,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :pencil: __Articles__
   - [x] :us: [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by [Better Explained](https://betterexplained.com/)
 - :book: __Books__
@@ -122,6 +126,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Functional Analysis
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -129,6 +135,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :pencil: __Articles__
   - [ ] :us: [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by [Better Explained](https://betterexplained.com/)
 - :mortar_board: __Courses__
@@ -138,6 +145,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Logic
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&amp;leftFill=%236699ff) |
@@ -145,11 +154,14 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![75](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=75&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :pencil: __Articles__
   - [x] :us: [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by [nLab](https://ncatlab.org/)
 
 ### Linear Logic
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&amp;leftFill=%236699ff) |
@@ -157,15 +169,18 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :pencil: __Articles__
   - [x] :us: [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by [nLab](https://ncatlab.org/)
   - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
 - :movie_camera: __Videos__
-  - [x] :us: [Linear and Dependent Types](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
 
 
 ## Algebra
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -173,6 +188,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :book: __Books__
   - [ ] :us: [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 - :mortar_board: __Courses__
@@ -182,6 +198,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Category Theory
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -189,12 +207,15 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :book: __Books__
   - [ ] :us: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by [Bartosz Milewski](https://bartoszmilewski.com/)
 
 
 ## Combinatorics and Probability
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -202,6 +223,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :mortar_board: __Courses__
   - [ ] :us: [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by [Khan Academy](https://www.khanacademy.org/)
 
@@ -209,6 +231,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 ## Type Theory
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -216,9 +240,12 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 
 ### Linear Type Theory
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -226,12 +253,15 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :movie_camera: __Videos__
-  - [x] :us: [Linear and Dependent Types](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
 
 
 ## Lambda Calculus
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -239,9 +269,12 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 
 ### Linear Lambda Calculus
 
+&lt;details&gt;
+&lt;summary&gt;Stats&lt;/summary&gt;
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
@@ -249,8 +282,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&amp;leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
 | __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&amp;leftFill=%236699ff) |
+&lt;/details&gt;
 - :movie_camera: __Videos__
-  - [x] :us: [Linear and Dependent Types](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
 
 
 

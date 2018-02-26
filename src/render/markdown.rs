@@ -3,10 +3,14 @@ use items::ListItem;
 use items::ListItemType;
 use tags::get_tags_with_children;
 
-pub fn render_stats(items: &Vec<ListItem>) -> String {
+pub fn render_stats(items: &Vec<ListItem>, use_spoiler: bool) -> String {
     use items::ListItemType::*;
 
     let mut stat_items: Vec<String> = vec![];
+
+    if use_spoiler {
+        stat_items.push("<details>\n<summary>Stats</summary>".to_owned());
+    }
 
     stat_items.push("| Resource type | Progress |".to_owned());
     stat_items.push("| --- | --- |".to_owned());
@@ -38,6 +42,8 @@ pub fn render_stats(items: &Vec<ListItem>) -> String {
 
 //    stat_items.push("| | |".to_owned());
     stat_items.push(render_stats_item("__Total__".to_owned(), progress));
+
+    stat_items.push("</details>".to_owned());
 
     stat_items.join("\n")
 }
@@ -110,7 +116,7 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             lines.push(tag_header);
             lines.push("".to_owned());
 
-            lines.push(render_stats(&tag_items));
+            lines.push(render_stats(&tag_items, true));
         }
 
         for item_type in vec![Cheatsheet, Article, Book, Course, Video] {
