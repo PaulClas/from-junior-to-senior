@@ -115,19 +115,6 @@
     ]
   },
   {
-    "title": "Programming Platforms",
-    "children": [
-      {
-        "title": "JVM",
-        "children": []
-      },
-      {
-        "title": ".NET",
-        "children": []
-      }
-    ]
-  },
-  {
     "title": "Programming Paradigms",
     "children": [
       {

@@ -219,7 +219,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Multithreading",
       "Compilers"
     ],
@@ -238,7 +237,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -256,7 +254,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -274,7 +271,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -292,7 +288,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -310,7 +305,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -328,7 +322,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -346,7 +339,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection",
       "Compilers"
     ],
@@ -365,7 +357,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -383,7 +374,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -401,7 +391,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -418,8 +407,7 @@
       }
     ],
     "tags": [
-      "Java",
-      "JVM"
+      "Java"
     ],
     "done": false
   },
@@ -436,7 +424,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -454,7 +441,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Compilers"
     ],
     "done": false
@@ -472,7 +458,6 @@
     ],
     "tags": [
       "Java",
-      "JVM",
       "Compilers"
     ],
     "done": false
