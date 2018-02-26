@@ -9,7 +9,7 @@ pub fn render_stats(items: &Vec<ListItem>, use_spoiler: bool) -> String {
     let mut stat_items: Vec<String> = vec![];
 
     if use_spoiler {
-        stat_items.push("<details>\n<summary>Stats</summary>".to_owned());
+        stat_items.push("\n<details>\n\n<summary>Stats</summary>\n".to_owned());
     }
 
     stat_items.push("| Resource type | Progress |".to_owned());
@@ -43,7 +43,7 @@ pub fn render_stats(items: &Vec<ListItem>, use_spoiler: bool) -> String {
 //    stat_items.push("| | |".to_owned());
     stat_items.push(render_stats_item("__Total__".to_owned(), progress));
 
-    stat_items.push("</details>".to_owned());
+    stat_items.push("\n</details>\n".to_owned());
 
     stat_items.join("\n")
 }
