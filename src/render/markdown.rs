@@ -85,7 +85,11 @@ pub fn tag_name_to_link(tag: &String) -> String {
     let mut result = String::new();
 
     for (i, part) in splitted.enumerate() {
-        let part = part.chars().filter(|c| { c.is_ascii_alphabetic() || *c == '-' }).collect::<String>().to_lowercase();
+        let part = part
+            .chars()
+            .filter(|c| { c.is_ascii_alphabetic() || *c == '-' })
+            .collect::<String>()
+            .to_lowercase();
         result = if i == 0 { part } else { format!("{0}-{1}", result, part) }
     }
 

@@ -236,7 +236,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -253,7 +253,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -270,7 +270,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -287,7 +287,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -304,7 +304,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -321,7 +321,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -339,6 +339,7 @@
     ],
     "tags": [
       "Java",
+      "JVM",
       "Garbage Collection",
       "Compilers"
     ],
@@ -356,7 +357,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -373,7 +374,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -390,7 +391,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -407,7 +408,7 @@
       }
     ],
     "tags": [
-      "Java"
+      "JVM"
     ],
     "done": false
   },
@@ -423,7 +424,7 @@
       }
     ],
     "tags": [
-      "Java",
+      "JVM",
       "Garbage Collection"
     ],
     "done": false
@@ -544,6 +545,70 @@
     "tags": [
       "Java",
       "Compilers"
+    ],
+    "done": false
+  },
+  {
+    "title": "Concurrent Programming in .NET Core",
+    "link": "http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Damir Arh"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Concurrency and Parallelism"
+    ],
+    "done": false
+  },
+  {
+    "title": "Zero Garbage Collector for .NET Core",
+    "link": "http://tooslowexception.com/zero-garbage-collector-for-net-core/",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Konrad Kokosa"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "Zero Garbage Collector for .NET Core 2.1 and ASP.NET Core 2.1",
+    "link": "http://tooslowexception.com/zero-garbage-collector-for-net-core-2-1-and-asp-net-core-2-1/",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Konrad Kokosa"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Garbage Collection"
+    ],
+    "done": false
+  },
+  {
+    "title": "Allocation is cheap... until it is not",
+    "link": "http://tooslowexception.com/allocation-is-cheap-until-it-is-not/",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Konrad Kokosa"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Garbage Collection"
     ],
     "done": false
   }

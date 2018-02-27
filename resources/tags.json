@@ -86,23 +86,37 @@
     ]
   },
   {
-    "title": "Programming Languages",
+    "title": "Programming Languages & Platforms",
     "children": [
       {
-        "title": "Java",
-        "children": []
+        "title": "JVM",
+        "children": [
+          {
+            "title": "Java",
+            "children": []
+          },
+          {
+            "title": "Kotlin",
+            "children": []
+          },
+          {
+            "title": "Scala",
+            "children": []
+          }
+        ]
       },
       {
-        "title": "Kotlin",
-        "children": []
-      },
-      {
-        "title": "Scala",
-        "children": []
-      },
-      {
-        "title": "C Sharp",
-        "children": []
+        "title": ".NET",
+        "children": [
+          {
+            "title": "C#",
+            "children": []
+          },
+          {
+            "title": "F#",
+            "children": []
+          }
+        ]
       },
       {
         "title": "Haskell",
