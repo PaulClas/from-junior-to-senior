@@ -30,11 +30,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![10](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%236699ff) |
+| Articles | ![13](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=13&leftFill=%236699ff) |
 | Books | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Courses | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
+| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
 
 </details>
 
@@ -433,11 +433,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![4](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=4&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![4](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=4&leftFill=%236699ff) |
 
 </details>
 
@@ -534,11 +534,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -548,7 +548,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <summary>Resources</summary>
 
 - :pencil: __Articles__
-  - [ ] :us: [Concurrent Programming in .NET Core](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core) by Damir Arh
+  - [x] :us: [Concurrent Programming in .NET Core](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core) by Damir Arh
   - [ ] :us: [Zero Garbage Collector for .NET Core](http://tooslowexception.com/zero-garbage-collector-for-net-core/) by Konrad Kokosa
   - [ ] :us: [Zero Garbage Collector for .NET Core 2.1 and ASP.NET Core 2.1](http://tooslowexception.com/zero-garbage-collector-for-net-core-2-1-and-asp-net-core-2-1/) by Konrad Kokosa
   - [ ] :us: [Allocation is cheap... until it is not](http://tooslowexception.com/allocation-is-cheap-until-it-is-not/) by Konrad Kokosa
@@ -688,11 +688,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
 
 </details>
 
@@ -702,7 +702,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <summary>Resources</summary>
 
 - :pencil: __Articles__
-  - [ ] :us: [Concurrent Programming in .NET Core](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core) by Damir Arh
+  - [x] :us: [Concurrent Programming in .NET Core](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core) by Damir Arh
 
 </details>
 

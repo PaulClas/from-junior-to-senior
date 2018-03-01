@@ -562,7 +562,7 @@
       ".NET",
       "Concurrency and Parallelism"
     ],
-    "done": false
+    "done": true
   },
   {
     "title": "Zero Garbage Collector for .NET Core",
