@@ -18,7 +18,7 @@ git clone https://github.com/KolesnichenkoDS/from-junior-to-senior
 cd from-junior-to-senior
 
 # edit the list
-vim resources/todo.json
+vim resources/items.json
 
 # render to markdown
 cargo run -- resources/ -f json -F markdown -o README.md
