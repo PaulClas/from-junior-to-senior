@@ -565,6 +565,22 @@
     "done": true
   },
   {
+    "title": "How does Object.GetType() really work?",
+    "link": "http://tooslowexception.com/how-does-gettype-work/",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Konrad Kokosa"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Metaprogramming and Reflexion"
+    ],
+    "done": false
+  },
+  {
     "title": "Zero Garbage Collector for .NET Core",
     "link": "http://tooslowexception.com/zero-garbage-collector-for-net-core/",
     "item_type": "Article",
@@ -604,6 +620,22 @@
     "authors": [
       {
         "name": "Konrad Kokosa"
+      }
+    ],
+    "tags": [
+      ".NET",
+      "Garbage Collection"
+    ],
+    "done": true
+  },
+  {
+    "title": "Making .NET code less allocatey – Allocations and the Garbage Collector",
+    "link": "https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Maarten Balliauw"
       }
     ],
     "tags": [
