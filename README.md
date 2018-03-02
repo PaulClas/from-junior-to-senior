@@ -73,7 +73,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [Rust](#rust)
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
-  - [Functional Progamming](#functional-progamming)
+  - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
   - [Actor Model](#actor-model)
   - [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
