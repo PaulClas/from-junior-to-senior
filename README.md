@@ -76,7 +76,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [Functional Progamming](#functional-progamming)
   - [Logic Programming](#logic-programming)
   - [Actor Model](#actor-model)
-  - [Metaprogramming and Reflexion](#metaprogramming-and-reflexion)
+  - [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
 - [Design Patterns](#design-patterns)
 - [Domain-Driven Design](#domain-driven-design)
 - [Computer Architecture](#computer-architecture)
@@ -571,11 +571,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 
 </details>
 
@@ -592,7 +592,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
-### Metaprogramming and Reflexion
+### Memory Management and Garbage Collection
 
 
 <details>
@@ -600,11 +600,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 
 </details>
 
@@ -614,7 +614,21 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <summary>Resources</summary>
 
 - :pencil: __Articles__
-  - [ ] :us: [How does Object.GetType() really work?](http://tooslowexception.com/how-does-gettype-work/) by Konrad Kokosa
+  - [ ] :us: [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #3: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #4: TLAB Allocation](https://shipilev.net/jvm-anatomy-park/4-tlab-allocation) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #5: TLABs and Heap Parsebility](https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #6: New Object Stages](https://shipilev.net/jvm-anatomy-park/6-new-object-stages) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #7: Object Initialization Costs](https://shipilev.net/jvm-anatomy-park/7-initialization-costs) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #9: JNI Critical and GC Locker](https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #10: String.intern()](https://shipilev.net/jvm-anatomy-park/10-string-intern) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #11: Moving GC and Locality](https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [Zero Garbage Collector for .NET Core](http://tooslowexception.com/zero-garbage-collector-for-net-core/) by Konrad Kokosa
+  - [ ] :us: [Zero Garbage Collector for .NET Core 2.1 and ASP.NET Core 2.1](http://tooslowexception.com/zero-garbage-collector-for-net-core-2-1-and-asp-net-core-2-1/) by Konrad Kokosa
+  - [x] :us: [Allocation is cheap... until it is not](http://tooslowexception.com/allocation-is-cheap-until-it-is-not/) by Konrad Kokosa
+  - [ ] :us: [Making .NET code less allocatey – Allocations and the Garbage Collector](https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html) by Maarten Balliauw
 
 </details>
 
@@ -634,11 +648,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![4](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=4&leftFill=%236699ff) |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![4](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=4&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 
 </details>
 
@@ -686,47 +700,6 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 </details>
 
 
-
-
-### Garbage Collection
-
-
-<details>
-<summary>Statistics</summary>
-
-| Resource type | Progress |
-| --- | --- |
-| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
-| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
-
-</details>
-
-
-
-<details>
-<summary>Resources</summary>
-
-- :pencil: __Articles__
-  - [ ] :us: [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #3: GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #4: TLAB Allocation](https://shipilev.net/jvm-anatomy-park/4-tlab-allocation) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #5: TLABs and Heap Parsebility](https://shipilev.net/jvm-anatomy-park/5-tlabs-and-heap-parsability) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #6: New Object Stages](https://shipilev.net/jvm-anatomy-park/6-new-object-stages) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #7: Object Initialization Costs](https://shipilev.net/jvm-anatomy-park/7-initialization-costs) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #8: Local Variable Reachability](https://shipilev.net/jvm-anatomy-park/8-local-var-reachability) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #9: JNI Critical and GC Locker](https://shipilev.net/jvm-anatomy-park/9-jni-critical-gclocker) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #10: String.intern()](https://shipilev.net/jvm-anatomy-park/10-string-intern) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #11: Moving GC and Locality](https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [JVM Anatomy Park #13: Integrational Barriers](https://shipilev.net/jvm-anatomy-park/13-intergenerational-barriers) by [Aleksey Shipilev](https://shipilev.net/)
-  - [ ] :us: [Zero Garbage Collector for .NET Core](http://tooslowexception.com/zero-garbage-collector-for-net-core/) by Konrad Kokosa
-  - [ ] :us: [Zero Garbage Collector for .NET Core 2.1 and ASP.NET Core 2.1](http://tooslowexception.com/zero-garbage-collector-for-net-core-2-1-and-asp-net-core-2-1/) by Konrad Kokosa
-  - [x] :us: [Allocation is cheap... until it is not](http://tooslowexception.com/allocation-is-cheap-until-it-is-not/) by Konrad Kokosa
-  - [ ] :us: [Making .NET code less allocatey – Allocations and the Garbage Collector](https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html) by Maarten Balliauw
-
-</details>
 
 
 

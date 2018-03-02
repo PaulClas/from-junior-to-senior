@@ -237,7 +237,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -254,7 +254,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -271,7 +271,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -288,7 +288,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -305,7 +305,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -322,7 +322,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -340,7 +340,7 @@
     "tags": [
       "Java",
       "JVM",
-      "Garbage Collection",
+      "Memory Management and Garbage Collection",
       "Compilers"
     ],
     "done": false
@@ -358,7 +358,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -375,7 +375,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -392,7 +392,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -425,7 +425,7 @@
     ],
     "tags": [
       "JVM",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -592,7 +592,7 @@
     ],
     "tags": [
       ".NET",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -608,7 +608,7 @@
     ],
     "tags": [
       ".NET",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   },
@@ -624,7 +624,7 @@
     ],
     "tags": [
       ".NET",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": true
   },
@@ -640,7 +640,7 @@
     ],
     "tags": [
       ".NET",
-      "Garbage Collection"
+      "Memory Management and Garbage Collection"
     ],
     "done": false
   }
