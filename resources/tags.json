@@ -257,6 +257,10 @@
       {
         "title": "SIMD",
         "children": []
+      },
+      {
+        "title": "Distributed Systems",
+        "children": []
       }
     ]
   },
@@ -280,5 +284,22 @@
   {
     "title": "Testing",
     "children": []
+  },
+  {
+    "title": "Data Science",
+    "children": [
+      {
+        "title": "Data Visualisation",
+        "children": []
+      },
+      {
+        "title": "Distributed Systems",
+        "children": []
+      },
+      {
+        "title": "Machine Learning",
+        "children": []
+      }
+    ]
   }
 ]

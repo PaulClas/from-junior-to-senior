@@ -643,5 +643,86 @@
       "Memory Management and Garbage Collection"
     ],
     "done": false
+  },
+  {
+    "title": "Машинное обучение",
+    "link": "https://yandexdataschool.ru/edu-process/courses/machine-learning",
+    "item_type": "Course",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "School of Data Analysis",
+        "link": "https://yandexdataschool.com/"
+      }
+    ],
+    "tags": [
+      "Machine Learning"
+    ],
+    "done": false
+  },
+  {
+    "title": "Параллельные и распределённые вычисления",
+    "link": "https://yandexdataschool.ru/edu-process/courses/machine-learning",
+    "item_type": "Course",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "School of Data Analysis",
+        "link": "https://yandexdataschool.com/"
+      }
+    ],
+    "tags": [
+      "Distributed Systems",
+      "Multithreading"
+    ],
+    "done": false
+  },
+  {
+    "title": "Алгоритмы и структуры данных",
+    "link": "https://yandexdataschool.ru/edu-process/courses/algorithms",
+    "item_type": "Course",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "School of Data Analysis",
+        "link": "https://yandexdataschool.com/"
+      }
+    ],
+    "tags": [
+      "Algorithms"
+    ],
+    "done": false
+  },
+  {
+    "title": "Сложность вычислений",
+    "link": "https://yandexdataschool.ru/edu-process/courses/complexity",
+    "item_type": "Course",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "School of Data Analysis",
+        "link": "https://yandexdataschool.com/"
+      }
+    ],
+    "tags": [
+      "Complexity"
+    ],
+    "done": false
+  },
+  {
+    "title": "Дискретный анализ и теория вероятностей",
+    "link": "https://yandexdataschool.ru/edu-process/courses/probability",
+    "item_type": "Course",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "School of Data Analysis",
+        "link": "https://yandexdataschool.com/"
+      }
+    ],
+    "tags": [
+      "Combinatorics and Probability"
+    ],
+    "done": false
   }
 ]

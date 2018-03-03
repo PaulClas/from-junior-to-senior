@@ -32,9 +32,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | --- | --- |
 | Articles | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
 | Books | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
-| Courses | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
 
 </details>
 
@@ -102,11 +102,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - [Concurrency and Parallelism](#concurrency-and-parallelism)
   - [Multithreading](#multithreading)
   - [SIMD](#simd)
+  - [Distributed Systems](#distributed-systems)
 - [Security](#security)
   - [Cryptography](#cryptography)
   - [Web Applications Security](#web-applications-security)
 - [Blockchain](#blockchain)
 - [Testing](#testing)
+- [Data Science](#data-science)
+  - [Data Visualisation](#data-visualisation)
+  - [Distributed Systems](#distributed-systems)
+  - [Machine Learning](#machine-learning)
 
 
 ## Calculus
@@ -310,6 +315,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :mortar_board: __Courses__
   - [ ] :us: [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by [Khan Academy](https://www.khanacademy.org/)
+  - [ ] :ru: [Дискретный анализ и теория вероятностей](https://yandexdataschool.ru/edu-process/courses/probability) by [School of Data Analysis](https://yandexdataschool.com/)
 
 </details>
 
@@ -423,6 +429,60 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+
+## Algorithms
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [ ] :ru: [Алгоритмы и структуры данных](https://yandexdataschool.ru/edu-process/courses/algorithms) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
+
+
+
+### Complexity
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [ ] :ru: [Сложность вычислений](https://yandexdataschool.ru/edu-process/courses/complexity) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
 
 
 
@@ -722,7 +782,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 
 </details>
 
@@ -760,6 +820,37 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :pencil: __Articles__
   - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
+- :mortar_board: __Courses__
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
+
+
+
+
+### Distributed Systems
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
 
 </details>
 
@@ -767,6 +858,87 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+
+
+## Data Science
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+
+### Distributed Systems
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
+
+
+
+### Machine Learning
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [ ] :ru: [Машинное обучение](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
 
 
 
