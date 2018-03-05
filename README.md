@@ -821,7 +821,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - :pencil: __Articles__
   - [ ] :us: [JVM Anatomy Park #1: Lock Coarsening and Loops](https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops) by [Aleksey Shipilev](https://shipilev.net/)
 - :mortar_board: __Courses__
-  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel) by [School of Data Analysis](https://yandexdataschool.com/)
 
 </details>
 
@@ -850,7 +850,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <summary>Resources</summary>
 
 - :mortar_board: __Courses__
-  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel) by [School of Data Analysis](https://yandexdataschool.com/)
 
 </details>
 
@@ -908,7 +908,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <summary>Resources</summary>
 
 - :mortar_board: __Courses__
-  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+  - [ ] :ru: [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel) by [School of Data Analysis](https://yandexdataschool.com/)
 
 </details>
 
