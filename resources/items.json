@@ -903,5 +903,29 @@
       "Object-Oriented Programming"
     ],
     "done": false
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "link": "https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8",
+    "item_type": "Book",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Erich Gamma"
+      },
+      {
+        "name": "Richard Helm"
+      },
+      {
+        "name": "Ralph Johnson"
+      },
+      {
+        "name": "John Vlissides"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming"
+    ],
+    "done": false
   }
 ]
