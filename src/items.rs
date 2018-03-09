@@ -112,9 +112,18 @@ impl ListItem {
         parts.push(self.language.to_emoji());
         parts.push(Link { title: self.title.clone(), url: self.link.clone() }.to_markdown());
 
-        for author in &self.authors {
+        if self.authors.len() != 0 {
             parts.push("by".to_string());
-            parts.push(author.to_markdown())
+
+            for (i, author) in self.authors.iter().enumerate() {
+                parts.push(
+                    if i == self.authors.len() - 1 {
+                        author.to_markdown()
+                    } else {
+                        author.to_markdown() + ","
+                    }
+                );
+            }
         }
 
         parts.join(" ")
