@@ -724,5 +724,184 @@
       "Combinatorics and Probability"
     ],
     "done": false
+  },
+  {
+    "title": "Typeclassopedia",
+    "link": "https://wiki.haskell.org/Typeclassopedia",
+    "item_type": "Cheatsheet",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Brent Yorgey"
+      }
+    ],
+    "tags": [
+      "Haskell",
+      "Functional Programming",
+      "Category Theory"
+    ]
+  },
+  {
+    "title": "RAII in Java",
+    "link": "http://www.yegor256.com/2017/08/08/raii-in-java.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Java"
+    ],
+    "done": false
+  },
+  {
+    "title": "Single Statement Unit Tests",
+    "link": "http://www.yegor256.com/2017/05/17/single-statement-unit-tests.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Testing"
+    ],
+    "done": false
+  },
+  {
+    "title": "How Does Inversion of Control Really Work?",
+    "link": "http://www.yegor256.com/2017/05/10/inversion-of-control.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Inversion of Control"
+    ],
+    "done": false
+  },
+  {
+    "title": "SRP is a Hoax",
+    "link": "http://www.yegor256.com/2017/12/19/srp-is-hoax.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming"
+    ],
+    "done": false
+  },
+  {
+    "title": "DAO is Yet Another OOP Shame",
+    "link": "http://www.yegor256.com/2017/12/05/data-access-object.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming"
+    ],
+    "done": false
+  },
+  {
+    "title": "ORM is an Offensive Anti-Pattern",
+    "link": "http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming",
+      "Databases"
+    ],
+    "done": false
+  },
+  {
+    "title": "Getters/Setters. Evil. Period.",
+    "link": "http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming"
+    ],
+    "done": false
+  },
+  {
+    "title": "Java 9: The Good, The Bad, and Private Interface Methods",
+    "link": "http://www.yegor256.com/2017/10/03/java9.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Java"
+    ],
+    "done": false
+  },
+  {
+    "title": "Operator new() is Toxic",
+    "link": "http://www.yegor256.com/2018/01/02/operator-new-is-toxic.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Object-Oriented Programming"
+    ],
+    "done": false
+  },
+  {
+    "title": "Constructors or Static Factory Methods?",
+    "link": "http://www.yegor256.com/2017/11/14/static-factory-methods.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Object-Oriented Programming"
+    ],
+    "done": false
   }
 ]

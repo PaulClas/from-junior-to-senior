@@ -129,7 +129,7 @@
     ]
   },
   {
-    "title": "Programming Paradigms",
+    "title": "Programming Paradigms and Patterns",
     "children": [
       {
         "title": "Object-Oriented Programming",
@@ -148,10 +148,19 @@
         "children": []
       },
       {
-        "title": "Memory Management and Garbage Collection",
-        "children": []
+        "title": "Inversion of Control",
+        "children": [
+          {
+            "title": "Dependency Injection",
+            "children": []
+          }
+        ]
       }
     ]
+  },
+  {
+    "title": "Memory Management and Garbage Collection",
+    "children": []
   },
   {
     "title": "Design Patterns",

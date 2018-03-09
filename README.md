@@ -30,11 +30,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
+| Articles | ![12](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=12&leftFill=%236699ff) |
 | Books | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
+| __Total__ | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
 
 </details>
 
@@ -71,12 +71,14 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
     - [F#](#f)
   - [Haskell](#haskell)
   - [Rust](#rust)
-- [Programming Paradigms](#programming-paradigms)
+- [Programming Paradigms and Patterns](#programming-paradigms-and-patterns)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
   - [Actor Model](#actor-model)
-  - [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
+  - [Inversion of Control](#inversion-of-control)
+    - [Dependency Injection](#dependency-injection)
+- [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
 - [Design Patterns](#design-patterns)
 - [Domain-Driven Design](#domain-driven-design)
 - [Computer Architecture](#computer-architecture)
@@ -285,6 +287,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :paperclip: __Cheatsheets__
+  - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
 - :book: __Books__
   - [ ] :us: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by [Bartosz Milewski](https://bartoszmilewski.com/)
 
@@ -494,11 +498,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
+| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
+| __Total__ | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
 
 </details>
 
@@ -580,6 +584,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [JVM Anatomy Park #18: Scalar Replacement](https://shipilev.net/jvm-anatomy-park/18-scalar-replacement) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #19: Lock Elision](https://shipilev.net/jvm-anatomy-park/19-lock-elision) by [Aleksey Shipilev](https://shipilev.net/)
   - [ ] :us: [JVM Anatomy Park #20: FPU Spills](https://shipilev.net/jvm-anatomy-park/20-fpu-spills) by [Aleksey Shipilev](https://shipilev.net/)
+  - [ ] :us: [RAII in Java](http://www.yegor256.com/2017/08/08/raii-in-java.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Java 9: The Good, The Bad, and Private Interface Methods](http://www.yegor256.com/2017/10/03/java9.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Operator new() is Toxic](http://www.yegor256.com/2018/01/02/operator-new-is-toxic.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Constructors or Static Factory Methods?](http://www.yegor256.com/2017/11/14/static-factory-methods.html) by [Yegor Bugayenko](http://www.yegor256.com/)
 
 </details>
 
@@ -621,9 +629,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
-
-
-## Programming Paradigms
+### Haskell
 
 
 <details>
@@ -631,11 +637,40 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :paperclip: __Cheatsheets__
+  - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
+
+</details>
+
+
+
+
+## Programming Paradigms and Patterns
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 
 </details>
 
@@ -648,11 +683,98 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 </details>
 
 
+### Object-Oriented Programming
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [SRP is a Hoax](http://www.yegor256.com/2017/12/19/srp-is-hoax.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [DAO is Yet Another OOP Shame](http://www.yegor256.com/2017/12/05/data-access-object.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [ORM is an Offensive Anti-Pattern](http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Operator new() is Toxic](http://www.yegor256.com/2018/01/02/operator-new-is-toxic.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Constructors or Static Factory Methods?](http://www.yegor256.com/2017/11/14/static-factory-methods.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+
+</details>
+
+
+
+### Functional Programming
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :paperclip: __Cheatsheets__
+  - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
+
+</details>
 
 
 
 
-### Memory Management and Garbage Collection
+
+### Inversion of Control
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [How Does Inversion of Control Really Work?](http://www.yegor256.com/2017/05/10/inversion-of-control.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+
+</details>
+
+
+
+## Memory Management and Garbage Collection
 
 
 <details>
@@ -768,6 +890,33 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Databases
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [ORM is an Offensive Anti-Pattern](http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+
+</details>
+
+
 
 
 ## Concurrency and Parallelism
@@ -857,6 +1006,33 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+
+
+## Testing
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [Single Statement Unit Tests](http://www.yegor256.com/2017/05/17/single-statement-unit-tests.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+
+</details>
 
 
 
