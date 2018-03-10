@@ -261,6 +261,24 @@
     "done": false
   },
   {
+    "title": "Integrating Dependent and Linear Types",
+    "link": "https://www.cl.cam.ac.uk/~nk480/dlnl-paper.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus",
+      "Dependent Types"
+    ],
+    "done": false
+  },
+  {
     "title": "Dependent Types in the Idris Programming Language 1",
     "link": "https://youtu.be/XWTqeVQJ91E",
     "item_type": "Video",
