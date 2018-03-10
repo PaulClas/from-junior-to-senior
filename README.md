@@ -34,8 +34,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![36](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=36&leftFill=%236699ff) |
-| __Total__ | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
+| Videos | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| __Total__ | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
 
 </details>
 
@@ -351,8 +351,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
-| __Total__ | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| Videos | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
+| __Total__ | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
 
 </details>
 
@@ -361,6 +361,16 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :movie_camera: __Videos__
+  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 2](https://youtu.be/vfQkFwHejBc) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 3](https://youtu.be/euiScSNCSJQ) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 4](https://youtu.be/RJi5Ke4EXZ8) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 5](https://youtu.be/24puauB48LM) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 6](https://youtu.be/UAF20HzVPSo) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 7](https://youtu.be/aYMgrChxctI) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 8](https://youtu.be/tYnaEM9xpmM) by Денис Москвин
 
 </details>
 
@@ -411,8 +421,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![57](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=57&leftFill=%236699ff) |
-| __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![23](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=23&leftFill=%236699ff) |
 
 </details>
 
@@ -425,6 +435,15 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
   - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
   - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 2](https://youtu.be/vfQkFwHejBc) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 3](https://youtu.be/euiScSNCSJQ) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 4](https://youtu.be/RJi5Ke4EXZ8) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 5](https://youtu.be/24puauB48LM) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 6](https://youtu.be/UAF20HzVPSo) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 7](https://youtu.be/aYMgrChxctI) by Денис Москвин
+  - [ ] :ru: [Системы типизации лямбда-исчисления 8](https://youtu.be/tYnaEM9xpmM) by Денис Москвин
 
 </details>
 

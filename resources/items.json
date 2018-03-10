@@ -1124,5 +1124,149 @@
       "Lambda Calculus"
     ],
     "done": true
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 1",
+    "link": "https://youtu.be/AYwgSacHIbk",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 1",
+    "link": "https://youtu.be/AYwgSacHIbk",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 2",
+    "link": "https://youtu.be/vfQkFwHejBc",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 3",
+    "link": "https://youtu.be/euiScSNCSJQ",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 4",
+    "link": "https://youtu.be/RJi5Ke4EXZ8",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 5",
+    "link": "https://youtu.be/24puauB48LM",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 6",
+    "link": "https://youtu.be/UAF20HzVPSo",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 7",
+    "link": "https://youtu.be/aYMgrChxctI",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Системы типизации лямбда-исчисления 8",
+    "link": "https://youtu.be/tYnaEM9xpmM",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus",
+      "Type Theory"
+    ],
+    "done": false
   }
 ]
