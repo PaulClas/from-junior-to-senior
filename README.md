@@ -33,8 +33,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Books | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![23](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=23&leftFill=%236699ff) |
+| Videos | ![12](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=12&leftFill=%236699ff) |
+| __Total__ | ![12](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=12&leftFill=%236699ff) |
 
 </details>
 
@@ -188,8 +188,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![85](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=85&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![42](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=42&leftFill=%236699ff) |
 
 </details>
 
@@ -215,8 +215,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![83](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=83&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 
 </details>
 
@@ -230,9 +230,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 
@@ -340,8 +340,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -365,8 +365,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -377,9 +377,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 
@@ -396,8 +396,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -421,8 +421,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -433,9 +433,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
-  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [ ] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 

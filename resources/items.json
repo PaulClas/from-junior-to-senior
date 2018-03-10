@@ -222,7 +222,7 @@
       "Linear Lambda Calculus",
       "Dependent Types"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Linear and Dependent Types 3",
@@ -240,7 +240,7 @@
       "Linear Lambda Calculus",
       "Dependent Types"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Linear and Dependent Types 4",
@@ -258,7 +258,7 @@
       "Linear Lambda Calculus",
       "Dependent Types"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Dependent Types in the Idris Programming Language 1",
@@ -274,7 +274,7 @@
       "Dependent Types",
       "Idris"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Dependent Types in the Idris Programming Language 2",
@@ -290,7 +290,7 @@
       "Dependent Types",
       "Idris"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Dependent Types in the Idris Programming Language 3",
@@ -306,7 +306,7 @@
       "Dependent Types",
       "Idris"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "Dependent Types in the Idris Programming Language 4",
@@ -322,7 +322,7 @@
       "Dependent Types",
       "Idris"
     ],
-    "done": true
+    "done": false
   },
   {
     "title": "JVM Anatomy Park #1: Lock Coarsening and Loops",
