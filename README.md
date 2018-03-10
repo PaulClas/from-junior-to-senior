@@ -30,11 +30,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![12](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=12&leftFill=%236699ff) |
+| Articles | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Books | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
+| __Total__ | ![23](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=23&leftFill=%236699ff) |
 
 </details>
 
@@ -189,7 +189,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![75](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=75&leftFill=%236699ff) |
+| __Total__ | ![85](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=85&leftFill=%236699ff) |
 
 </details>
 
@@ -216,7 +216,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
-| __Total__ | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&leftFill=%236699ff) |
+| __Total__ | ![83](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=83&leftFill=%236699ff) |
 
 </details>
 
@@ -230,6 +230,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 
@@ -374,6 +377,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 
@@ -427,6 +433,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 3](https://youtu.be/e46nF6FJmtI) by Neel Krishnaswami
+  - [x] :us: [Linear and Dependent Types 4](https://youtu.be/XWTqeVQJ91E) by Neel Krishnaswami
 
 </details>
 
@@ -711,6 +720,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html) by [Yegor Bugayenko](http://www.yegor256.com/)
   - [ ] :us: [Operator new() is Toxic](http://www.yegor256.com/2018/01/02/operator-new-is-toxic.html) by [Yegor Bugayenko](http://www.yegor256.com/)
   - [ ] :us: [Constructors or Static Factory Methods?](http://www.yegor256.com/2017/11/14/static-factory-methods.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Data Transfer Object is a Shame](http://www.yegor256.com/2016/07/06/data-transfer-object.html) by [Yegor Bugayenko](http://www.yegor256.com/)
 - :book: __Books__
   - [ ] :us: [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 

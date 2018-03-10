@@ -207,6 +207,124 @@
     "done": true
   },
   {
+    "title": "Linear and Dependent Types 2",
+    "link": "https://youtu.be/2lPebyKMOug",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus",
+      "Dependent Types"
+    ],
+    "done": true
+  },
+  {
+    "title": "Linear and Dependent Types 3",
+    "link": "https://youtu.be/e46nF6FJmtI",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus",
+      "Dependent Types"
+    ],
+    "done": true
+  },
+  {
+    "title": "Linear and Dependent Types 4",
+    "link": "https://youtu.be/XWTqeVQJ91E",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus",
+      "Dependent Types"
+    ],
+    "done": true
+  },
+  {
+    "title": "Dependent Types in the Idris Programming Language 1",
+    "link": "https://youtu.be/XWTqeVQJ91E",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Edwin Brady"
+      }
+    ],
+    "tags": [
+      "Dependent Types",
+      "Idris"
+    ],
+    "done": true
+  },
+  {
+    "title": "Dependent Types in the Idris Programming Language 2",
+    "link": "https://youtu.be/de5Mx4snoNM",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Edwin Brady"
+      }
+    ],
+    "tags": [
+      "Dependent Types",
+      "Idris"
+    ],
+    "done": true
+  },
+  {
+    "title": "Dependent Types in the Idris Programming Language 3",
+    "link": "https://youtu.be/umiUJNcvPl0",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Edwin Brady"
+      }
+    ],
+    "tags": [
+      "Dependent Types",
+      "Idris"
+    ],
+    "done": true
+  },
+  {
+    "title": "Dependent Types in the Idris Programming Language 4",
+    "link": "https://youtu.be/-TZn2npvY8A",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Edwin Brady"
+      }
+    ],
+    "tags": [
+      "Dependent Types",
+      "Idris"
+    ],
+    "done": true
+  },
+  {
     "title": "JVM Anatomy Park #1: Lock Coarsening and Loops",
     "link": "https://shipilev.net/jvm-anatomy-park/1-lock-coarsening-for-loops",
     "item_type": "Article",
@@ -921,6 +1039,22 @@
       },
       {
         "name": "John Vlissides"
+      }
+    ],
+    "tags": [
+      "Object-Oriented Programming"
+    ],
+    "done": false
+  },
+  {
+    "title": "Data Transfer Object is a Shame",
+    "link": "http://www.yegor256.com/2016/07/06/data-transfer-object.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Yegor Bugayenko",
+        "link": "http://www.yegor256.com/"
       }
     ],
     "tags": [
