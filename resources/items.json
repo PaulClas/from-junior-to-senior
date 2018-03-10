@@ -1079,5 +1079,50 @@
       "Object-Oriented Programming"
     ],
     "done": false
+  },
+  {
+    "title": "Лямбда-исчисление",
+    "link": "https://youtu.be/7BPQ-gpXKt4",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus"
+    ],
+    "done": true
+  },
+  {
+    "title": "Рекурсия и редукция",
+    "link": "https://youtu.be/nyulPOcDLGM",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus"
+    ],
+    "done": true
+  },
+  {
+    "title": "Просто типизированное лямбда-исчисление",
+    "link": "https://youtu.be/S-mqZrmUUqU",
+    "item_type": "Video",
+    "language": "Russian",
+    "authors": [
+      {
+        "name": "Денис Москвин"
+      }
+    ],
+    "tags": [
+      "Lambda Calculus"
+    ],
+    "done": true
   }
 ]
