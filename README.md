@@ -31,11 +31,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
-| Books | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| Books | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
-| __Total__ | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
+| Videos | ![26](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=26&leftFill=%236699ff) |
+| __Total__ | ![15](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%236699ff) |
 
 </details>
 
@@ -54,6 +54,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - [Discrete Mathematics](#discrete-mathematics)
 - [Type Theory](#type-theory)
   - [Linear Type Theory](#linear-type-theory)
+- [Verification](#verification)
 - [Lambda Calculus](#lambda-calculus)
   - [Linear Lambda Calculus](#linear-lambda-calculus)
 - [Pi Calculus](#pi-calculus)
@@ -72,6 +73,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
     - [F#](#f)
   - [Haskell](#haskell)
   - [Rust](#rust)
+  - [Coq](#coq)
 - [Programming Paradigms and Patterns](#programming-paradigms-and-patterns)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
@@ -158,10 +160,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Courses | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 
 </details>
 
@@ -172,11 +174,37 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :pencil: __Articles__
   - [ ] :us: [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by [Better Explained](https://betterexplained.com/)
+
+</details>
+
+
+
+## Geometry
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
 - :mortar_board: __Courses__
   - [x] :us: [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by [Khan Academy](https://www.khanacademy.org/)
 
 </details>
-
 
 
 
@@ -193,7 +221,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
-| __Total__ | ![37](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=37&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -204,6 +232,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :pencil: __Articles__
   - [x] :us: [Sequent Calculus](https://ncatlab.org/nlab/show/sequent+calculus) by [nLab](https://ncatlab.org/)
+- :book: __Books__
+  - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
+  - [ ] :us: [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
 
 </details>
 
@@ -351,8 +384,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
-| __Total__ | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
+| Videos | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
+| __Total__ | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 
 </details>
 
@@ -361,9 +394,14 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :book: __Books__
+  - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
+  - [ ] :us: [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
+  - [ ] :us: [Homotopy Type Theory](https://homotopytypetheory.org/book/) by Vladimir Voevodsky
 - :movie_camera: __Videos__
-  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
-  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [x] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 2](https://youtu.be/vfQkFwHejBc) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 3](https://youtu.be/euiScSNCSJQ) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 4](https://youtu.be/RJi5Ke4EXZ8) by Денис Москвин
@@ -409,6 +447,35 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Verification
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :book: __Books__
+  - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
+
+</details>
+
+
+
 ## Lambda Calculus
 
 
@@ -421,8 +488,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
-| __Total__ | ![23](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=23&leftFill=%236699ff) |
+| Videos | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
+| __Total__ | ![29](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=29&leftFill=%236699ff) |
 
 </details>
 
@@ -431,12 +498,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :book: __Books__
+  - [ ] :us: [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
 - :movie_camera: __Videos__
   - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
   - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
   - [x] :ru: [Просто типизированное лямбда-исчисление](https://youtu.be/S-mqZrmUUqU) by Денис Москвин
-  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
-  - [ ] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
+  - [x] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 2](https://youtu.be/vfQkFwHejBc) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 3](https://youtu.be/euiScSNCSJQ) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 4](https://youtu.be/RJi5Ke4EXZ8) by Денис Москвин
@@ -715,6 +783,37 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+### Coq
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :book: __Books__
+  - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
+
+</details>
+
+
+
 ## Programming Paradigms and Patterns
 
 
@@ -802,6 +901,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :paperclip: __Cheatsheets__
   - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
+- :book: __Books__
+  - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
+  - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
 
 </details>
 

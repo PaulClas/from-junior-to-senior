@@ -51,6 +51,10 @@
     ]
   },
   {
+    "title": "Verification",
+    "children": []
+  },
+  {
     "title": "Lambda Calculus",
     "children": [
       {
@@ -124,6 +128,10 @@
       },
       {
         "title": "Rust",
+        "children": []
+      },
+      {
+        "title": "Coq",
         "children": []
       }
     ]
