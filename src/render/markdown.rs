@@ -18,7 +18,7 @@ pub fn render_stats(items: &Vec<ListItem>, use_spoiler: bool) -> String {
     let mut total = 0.0;
     let mut total_done = 0.0;
 
-    for item_type in vec![Article, Book, Course, Paper, Video] {
+    for item_type in vec![Article, Book, Course, Paper, Slides, Video] {
         let mut all = 0.0;
         let mut done = 0.0;
 
@@ -126,7 +126,7 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             lines.push("\n<details>\n<summary>Resources</summary>\n".to_owned());
         }
 
-        for item_type in vec![Cheatsheet, Article, Book, Course, Paper, Video] {
+        for item_type in vec![Cheatsheet, Article, Book, Course, Paper, Slides, Video] {
             let items = items.iter()
                 .filter(|i| { i.item_type == item_type })
                 .filter(|i| { i.tags.iter().any(|t| { *t == tag.title }) })

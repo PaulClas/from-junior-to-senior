@@ -20,6 +20,7 @@ pub enum ListItemType {
     Cheatsheet,
     Course,
     Paper,
+    Slides,
     Video,
 }
 
@@ -31,6 +32,7 @@ impl ListItemType {
             ListItemType::Cheatsheet => "Cheatsheet",
             ListItemType::Course => "Course",
             ListItemType::Paper => "Paper",
+            ListItemType::Slides => "Slides",
             ListItemType::Video => "Video",
         }.to_owned()
     }
@@ -42,6 +44,7 @@ impl ListItemType {
             ListItemType::Cheatsheet => "Cheatsheets",
             ListItemType::Course => "Courses",
             ListItemType::Paper => "Papers",
+            ListItemType::Slides => "Slides",
             ListItemType::Video => "Videos",
         }.to_owned()
     }
@@ -53,6 +56,7 @@ impl ListItemType {
             ListItemType::Cheatsheet => ":paperclip:",
             ListItemType::Course => ":mortar_board:",
             ListItemType::Paper => ":page_facing_up:",
+            ListItemType::Slides => ":stars:",
             ListItemType::Video => ":movie_camera:",
         }.to_owned()
     }
