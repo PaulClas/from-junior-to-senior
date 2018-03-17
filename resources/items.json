@@ -222,7 +222,7 @@
       "Linear Lambda Calculus",
       "Dependent Types"
     ],
-    "done": false
+    "done": true
   },
   {
     "title": "Linear and Dependent Types 3",
@@ -274,9 +274,32 @@
       "Linear Logic",
       "Linear Type Theory",
       "Linear Lambda Calculus",
-      "Dependent Types"
+      "Dependent Types",
+      "Intersection Types",
+      "Proof Irrelivance",
+      "Separation Logic",
+      "Hoare Triples"
     ],
     "done": false
+  },
+  {
+    "title": "Linear Logic, Monads and the Lambda Calculus",
+    "link": "https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Nick Benton"
+      },
+      {
+        "name": "Philip Wadler"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Linear Lambda Calculus"
+    ]
   },
   {
     "title": "Dependent Types in the Idris Programming Language 1",
@@ -1339,5 +1362,255 @@
       "Type Theory"
     ],
     "done": false
+  },
+  {
+    "title": "Linear Logic",
+    "link": "http://www.cs.cmu.edu/%7Efp/courses/linear/handouts/linear.pdf",
+    "item_type": "Book",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Frank Pfenning"
+      }
+    ],
+    "tags": [
+      "Linear Logic"
+    ],
+    "done": false
+  },
+  {
+    "title": "Substructural Type Systems and Concurrent Programming 1",
+    "link": "https://youtu.be/ZW-VWWa1o9g",
+    "item_type": "Video",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Frank Pfenning"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Systems",
+      "Concurrency and Parallelism"
+    ],
+    "done": false
+  },
+  {
+    "title": "Typed Tagless Final Interpreters",
+    "link": "http://okmij.org/ftp/tagless-final/course/lecture.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Oleg Kiselov"
+      }
+    ],
+    "tags": [
+      "Haskell",
+      "Functional Programming"
+    ],
+    "done": true
+  },
+  {
+    "title": "On Regions and Linear Types",
+    "link": "https://www.cs.princeton.edu/%7Edpw/papers/space.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "David Walker"
+      },
+      {
+        "name": "Kevin Watkins"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Regions"
+    ],
+    "done": false
+  },
+  {
+    "title": "Linear Regions Are All You Need",
+    "link": "http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Matthew Fluet"
+      },
+      {
+        "name": "Greg Morrisett"
+      },
+      {
+        "name": "Amal Ahmed"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Regions"
+    ],
+    "done": false
+  },
+  {
+    "title": "Type Reconstruction for the Linear π-Calculus with Composite Regular Types",
+    "link": "https://arxiv.org/pdf/1510.01752.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Luca Padovani"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Pi Calculus"
+    ],
+    "done": false
+  },
+  {
+    "title": "Type-Theoretical Semantics with Coercive Subtyping",
+    "link": "https://pdfs.semanticscholar.org/b806/f3de6a6fd32bcc7f49b29c0b5fb6835de1bc.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Zhaohui Luo"
+      }
+    ],
+    "tags": [
+      "Subtyping"
+    ],
+    "done": false
+  },
+  {
+    "title": "Coercion",
+    "link": "https://ncatlab.org/nlab/show/coercion",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "nLab",
+        "link": "https://ncatlab.org/"
+      }
+    ],
+    "tags": [
+      "Subtyping"
+    ],
+    "done": false
+  },
+  {
+    "title": "Dependent Type Theory of Stateful High-Order Functions",
+    "link": "https://software.imdea.org/~aleks/papers/hoarelogic/depstate.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Aleksandar Nanevski"
+      },
+      {
+        "name": "Gregg Morrisett"
+      }
+    ],
+    "tags": [
+      "Type Theory",
+      "Hoare Type Theory",
+      "Dependent Types"
+    ],
+    "done": false
+  },
+  {
+    "title": "Monads Need Not To Be Endofunctors",
+    "link": "http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Thorsten Altenkirch"
+      },
+      {
+        "name": "James Chapman"
+      },
+      {
+        "name": "Tarmo Uustalu"
+      }
+    ],
+    "tags": [
+      "Category Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Lightweight Monadic Regions",
+    "link": "http://okmij.org/ftp/Computation/resource-aware-prog/region-io.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Oleg Kiselyov"
+      },
+      {
+        "name": "Chung-chieh Shan"
+      }
+    ],
+    "tags": [
+      "Functional Programming",
+      "Haskell",
+      "Regions",
+      "Linear Logic",
+      "Linear Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Objects and Aspects: Row Polymorphism",
+    "link": "https://www.cs.cmu.edu/~neelk/rows.pdf",
+    "item_type": "Slides",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      }
+    ],
+    "tags": [
+      "Row Polymorphism"
+    ],
+    "done": false
+  },
+  {
+    "title": "A Polymorphic Type System for Extensible Records and Variants",
+    "link": "https://pdfs.semanticscholar.org/e529/13a157b06a95951e19cde54a776e16adee11.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Benedict R. Gaster"
+      },
+      {
+        "name": "Mark P. Jones"
+      }
+    ],
+    "tags": [
+      "Row Polymorphism"
+    ],
+    "done": false
+  },
+  {
+    "title": "Row Polymorphism isn't Subtyping",
+    "link": "https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Brian McKenna"
+      }
+    ],
+    "tags": [
+      "Row Polymorphism",
+      "Subtyping"
+    ],
+    "done": true
   }
 ]

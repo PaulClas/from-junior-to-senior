@@ -47,6 +47,14 @@
       {
         "title": "Linear Type Theory",
         "children": []
+      },
+      {
+        "title": "Row Polymorphism",
+        "children": []
+      },
+      {
+        "title": "Subtyping",
+        "children": []
       }
     ]
   },
