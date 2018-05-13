@@ -59,7 +59,7 @@
     ]
   },
   {
-    "title": "Verification",
+    "title": "Verification and Automatic Theorem Proving",
     "children": []
   },
   {
@@ -121,11 +121,15 @@
         "title": ".NET",
         "children": [
           {
-            "title": "C#",
+            "title": "C Sharp",
             "children": []
           },
           {
-            "title": "F#",
+            "title": "F Sharp",
+            "children": []
+          },
+          {
+            "title": "F Star",
             "children": []
           }
         ]
@@ -326,5 +330,9 @@
         "children": []
       }
     ]
+  },
+  {
+    "title": "Digital Marketing",
+    "children": []
   }
 ]

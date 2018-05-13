@@ -299,7 +299,8 @@
       "Linear Logic",
       "Linear Type Theory",
       "Linear Lambda Calculus"
-    ]
+    ],
+    "done": false
   },
   {
     "title": "Dependent Types in the Idris Programming Language 1",
@@ -1325,7 +1326,7 @@
     "tags": [
       "Logic",
       "Type Theory",
-      "Verification",
+      "Verification and Automatic Theorem Proving",
       "Functional Programming",
       "Coq"
     ],
@@ -1577,7 +1578,7 @@
     "tags": [
       "Row Polymorphism"
     ],
-    "done": false
+    "done": true
   },
   {
     "title": "A Polymorphic Type System for Extensible Records and Variants",
@@ -1612,5 +1613,314 @@
       "Subtyping"
     ],
     "done": true
+  },
+  {
+    "title": "RustBelt: Securing the Foundations of the Rust Programming Language",
+    "link": "https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Ralf Jung"
+      },
+      {
+        "name": "Jacques-Henri Jordan"
+      },
+      {
+        "name": "Robbert Krebbers"
+      },
+      {
+        "name": "Derek Dreyer"
+      }
+    ],
+    "tags": [
+      "Rust",
+      "Type Theory",
+      "Lambda Calculus"
+    ],
+    "done": false
+  },
+  {
+    "title": "Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Programming",
+    "link": "http://iris-project.org/pdfs/2015-popl-iris1-final.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Ralf Jung"
+      },
+      {
+        "name": "David Swasey"
+      },
+      {
+        "name": "Filip Sieczkowski"
+      },
+      {
+        "name": "Kasper Svendsen"
+      },
+      {
+        "name": "Aaron Turon"
+      },
+      {
+        "name": "Lars Birkedal"
+      },
+      {
+        "name": "Derek Dreyer"
+      }
+    ],
+    "tags": [
+      "Type Theory",
+      "Concurrency and Parallelism"
+    ],
+    "done": false
+  },
+  {
+    "title": "Session Types for Rust",
+    "link": "http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Thomas Bracht Laumann Jespersen"
+      },
+      {
+        "name": "Philip Munksgaard"
+      },
+      {
+        "name": "Ken Friis Larsen"
+      }
+    ],
+    "tags": [
+      "Session Types",
+      "Rust",
+      "Linear Logic",
+      "Linear Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Impredicative Types",
+    "link": "https://wiki.haskell.org/Impredicative_types",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "HaskellWiki",
+        "link": "https://wiki.haskell.org/"
+      }
+    ],
+    "tags": [
+      "Haskell",
+      "Type Theory"
+    ],
+    "done": true
+  },
+  {
+    "title": "Permission-Based Ownership: Encapsulating State in High-Order Typed Languages",
+    "link": "http://www.softlab.ntua.gr/~pgerakios/literature/OwnershipTypes/permission-based_ownership.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      },
+      {
+        "name": "Jonathan Aldrich"
+      }
+    ],
+    "tags": [
+      "Type Theory",
+      "Linear Logic",
+      "Linear Type Theory"
+    ],
+    "done": false
+  },
+  {
+    "title": "Verifying Event-Driven Programs using Ramified Frame Properties",
+    "link": "http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neelk/ramified-frames-tldi10.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Neel Krishnaswami"
+      },
+      {
+        "name": "Lars Birkedal"
+      },
+      {
+        "name": "Jonathan Aldrich"
+      }
+    ],
+    "tags": [
+      "Type Theory",
+      "Functional Programming",
+      "Verification and Automatic Theorem Proving"
+    ],
+    "done": false
+  },
+  {
+    "title": "Linear Types Make Performance More Predictable",
+    "link": "https://www.tweag.io/posts/2017-03-13-linear-types.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Jean-Philippe Bernardy"
+      },
+      {
+        "name": "Arnaud Spiwack"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Haskell"
+    ],
+    "done": false
+  },
+  {
+    "title": "Implementing a Safer Sort with Linear Types",
+    "link": "https://www.tweag.io/posts/2018-03-08-linear-sort.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Alexander Vershilov"
+      },
+      {
+        "name": "Arnaud Spiwack"
+      }
+    ],
+    "tags": [
+      "Linear Logic",
+      "Linear Type Theory",
+      "Haskell"
+    ],
+    "done": false
+  },
+  {
+    "title": "Designing a π-based Programming Language in the .NET Framework: CLR Interoperability from the Programmer's Point of View",
+    "link": "https://arxiv.org/ftp/arxiv/papers/1703/1703.05185.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Manuel Mazzara"
+      }
+    ],
+    "tags": [
+      "Pi Calculus",
+      ".NET"
+    ],
+    "done": false
+  },
+  {
+    "title": "Design and Implementation of Generics for the .NET Common Language Runtime",
+    "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2001/01/designandimplementationofgenerics.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Andrew Kennedy"
+      },
+      {
+        "name": "Don Syme"
+      }
+    ],
+    "tags": [
+      ".NET"
+    ],
+    "done": false
+  },
+  {
+    "title": "Dependent Types and Multi-monadic Effects in F&ast;",
+    "link": "https://www.fstar-lang.org/papers/mumon/paper.pdf",
+    "item_type": "Paper",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Nikhil Swamy"
+      }
+    ],
+    "tags": [
+      "Dependent Types",
+      "F Star"
+    ],
+    "done": false
+  },
+  {
+    "title": "Type Safety Proof",
+    "link": "https://homes.cs.washington.edu/~djg/2011sp/lec10_6up.pdf",
+    "item_type": "Slides",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Dan Grossman"
+      }
+    ],
+    "tags": [
+      "Type Theory",
+      "Lambda Calculus"
+    ],
+    "done": true
+  },
+  {
+    "title": "Three Layer Haskell Cake",
+    "link": "http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Matt Parsons"
+      }
+    ],
+    "tags": [
+      "Haskell",
+      "Functional Programming"
+    ],
+    "done": true
+  },
+  {
+    "title": "Invert Your Mocks!",
+    "link": "http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Matt Parsons"
+      }
+    ],
+    "tags": [
+      "Haskell",
+      "Functional Programming",
+      "Testing"
+    ],
+    "done": false
+  },
+  {
+    "title": "Theorem Proving in Lean",
+    "link": "https://leanprover.github.io/theorem_proving_in_lean/index.html",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [],
+    "tags": [
+      "Lean",
+      "Verification and Automatic Theorem Proving"
+    ],
+    "done": true
+  },
+  {
+    "title": "Metrics in Digital Marketing (wiki)",
+    "link": "http://cpm.wiki/",
+    "item_type": "Cheatsheet",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Svend A. Sylling"
+      }
+    ],
+    "tags": [
+      "Digital Marketing"
+    ]
   }
 ]

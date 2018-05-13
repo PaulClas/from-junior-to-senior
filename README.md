@@ -30,13 +30,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![13](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=13&leftFill=%236699ff) |
+| Articles | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
 | Books | ![10](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%236699ff) |
-| Courses | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
-| Papers | ![9](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=9&leftFill=%236699ff) |
-| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| Papers | ![5](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%236699ff) |
+| Slides | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Videos | ![30](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%236699ff) |
-| __Total__ | ![15](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%236699ff) |
+| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
 
 </details>
 
@@ -57,7 +57,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [Linear Type Theory](#linear-type-theory)
   - [Row Polymorphism](#row-polymorphism)
   - [Subtyping](#subtyping)
-- [Verification](#verification)
+- [Verification and Automatic Theorem Proving](#verification-and-automatic-theorem-proving)
 - [Lambda Calculus](#lambda-calculus)
   - [Linear Lambda Calculus](#linear-lambda-calculus)
 - [Pi Calculus](#pi-calculus)
@@ -72,8 +72,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
     - [Kotlin](#kotlin)
     - [Scala](#scala)
   - [.NET](#net)
-    - [C#](#c)
-    - [F#](#f)
+    - [C Sharp](#c-sharp)
+    - [F Sharp](#f-sharp)
+    - [F Star](#f-star)
   - [Haskell](#haskell)
   - [Rust](#rust)
   - [Coq](#coq)
@@ -120,6 +121,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [Data Visualisation](#data-visualisation)
   - [Distributed Systems](#distributed-systems)
   - [Machine Learning](#machine-learning)
+- [Digital Marketing](#digital-marketing)
 
 
 ## Calculus
@@ -222,13 +224,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&leftFill=%236699ff) |
+| Articles | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
-| __Total__ | ![21](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=21&leftFill=%236699ff) |
+| __Total__ | ![17](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=17&leftFill=%236699ff) |
 
 </details>
 
@@ -256,13 +258,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Articles | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
-| __Total__ | ![21](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=21&leftFill=%236699ff) |
+| __Total__ | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
 
 </details>
 
@@ -274,15 +276,19 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - :pencil: __Articles__
   - [x] :us: [Linear Logic](https://ncatlab.org/nlab/show/linear+logic) by [nLab](https://ncatlab.org/)
   - [ ] :ru: [Линейная логика (реферат по истории математики)](https://www.docme.ru/doc/925474/linejnaya-logika) by Alexandr Kharitonov
+  - [ ] :us: [Linear Types Make Performance More Predictable](https://www.tweag.io/posts/2017-03-13-linear-types.html) by Jean-Philippe Bernardy, Arnaud Spiwack
+  - [ ] :us: [Implementing a Safer Sort with Linear Types](https://www.tweag.io/posts/2018-03-08-linear-sort.html) by Alexander Vershilov, Arnaud Spiwack
 - :book: __Books__
   - [ ] :us: [Linear Logic](http://www.cs.cmu.edu/%7Efp/courses/linear/handouts/linear.pdf) by Frank Pfenning
 - :page_facing_up: __Papers__
   - [ ] :us: [Integrating Dependent and Linear Types](https://www.cl.cam.ac.uk/~nk480/dlnl-paper.pdf) by Neel Krishnaswami
-  - :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
+  - [ ] :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
   - [ ] :us: [On Regions and Linear Types](https://www.cs.princeton.edu/%7Edpw/papers/space.pdf) by David Walker, Kevin Watkins
   - [ ] :us: [Linear Regions Are All You Need](http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf) by Matthew Fluet, Greg Morrisett, Amal Ahmed
   - [ ] :us: [Type Reconstruction for the Linear π-Calculus with Composite Regular Types](https://arxiv.org/pdf/1510.01752.pdf) by Luca Padovani
   - [ ] :us: [Lightweight Monadic Regions](http://okmij.org/ftp/Computation/resource-aware-prog/region-io.pdf) by Oleg Kiselyov, Chung-chieh Shan
+  - [ ] :us: [Session Types for Rust](http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf) by Thomas Bracht Laumann Jespersen, Philip Munksgaard, Ken Friis Larsen
+  - [ ] :us: [Permission-Based Ownership: Encapsulating State in High-Order Typed Languages](http://www.softlab.ntua.gr/~pgerakios/literature/OwnershipTypes/permission-based_ownership.pdf) by Neel Krishnaswami, Jonathan Aldrich
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
   - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
@@ -401,13 +407,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Articles | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Videos | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
-| __Total__ | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
+| __Total__ | ![18](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=18&leftFill=%236699ff) |
 
 </details>
 
@@ -416,6 +422,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :pencil: __Articles__
+  - [x] :us: [Impredicative Types](https://wiki.haskell.org/Impredicative_types) by [HaskellWiki](https://wiki.haskell.org/)
 - :book: __Books__
   - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
   - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
@@ -424,6 +432,12 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [Homotopy Type Theory](https://homotopytypetheory.org/book/) by Vladimir Voevodsky
 - :page_facing_up: __Papers__
   - [ ] :us: [Dependent Type Theory of Stateful High-Order Functions](https://software.imdea.org/~aleks/papers/hoarelogic/depstate.pdf) by Aleksandar Nanevski, Gregg Morrisett
+  - [ ] :us: [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by Ralf Jung, Jacques-Henri Jordan, Robbert Krebbers, Derek Dreyer
+  - [ ] :us: [Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Programming](http://iris-project.org/pdfs/2015-popl-iris1-final.pdf) by Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal, Derek Dreyer
+  - [ ] :us: [Permission-Based Ownership: Encapsulating State in High-Order Typed Languages](http://www.softlab.ntua.gr/~pgerakios/literature/OwnershipTypes/permission-based_ownership.pdf) by Neel Krishnaswami, Jonathan Aldrich
+  - [ ] :us: [Verifying Event-Driven Programs using Ramified Frame Properties](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neelk/ramified-frames-tldi10.pdf) by Neel Krishnaswami, Lars Birkedal, Jonathan Aldrich
+- :stars: __Slides__
+  - [x] :us: [Type Safety Proof](https://homes.cs.washington.edu/~djg/2011sp/lec10_6up.pdf) by Dan Grossman
 - :movie_camera: __Videos__
   - [x] :ru: [Системы типизации лямбда-исчисления 1](https://youtu.be/AYwgSacHIbk) by Денис Москвин
   - [ ] :ru: [Системы типизации лямбда-исчисления 2](https://youtu.be/vfQkFwHejBc) by Денис Москвин
@@ -451,7 +465,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
-| __Total__ | ![22](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=22&leftFill=%236699ff) |
+| __Total__ | ![15](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%236699ff) |
 
 </details>
 
@@ -460,12 +474,17 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :pencil: __Articles__
+  - [ ] :us: [Linear Types Make Performance More Predictable](https://www.tweag.io/posts/2017-03-13-linear-types.html) by Jean-Philippe Bernardy, Arnaud Spiwack
+  - [ ] :us: [Implementing a Safer Sort with Linear Types](https://www.tweag.io/posts/2018-03-08-linear-sort.html) by Alexander Vershilov, Arnaud Spiwack
 - :page_facing_up: __Papers__
   - [ ] :us: [Integrating Dependent and Linear Types](https://www.cl.cam.ac.uk/~nk480/dlnl-paper.pdf) by Neel Krishnaswami
-  - :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
+  - [ ] :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
   - [ ] :us: [On Regions and Linear Types](https://www.cs.princeton.edu/%7Edpw/papers/space.pdf) by David Walker, Kevin Watkins
   - [ ] :us: [Linear Regions Are All You Need](http://www.ccs.neu.edu/home/amal/papers/linrgn.pdf) by Matthew Fluet, Greg Morrisett, Amal Ahmed
   - [ ] :us: [Lightweight Monadic Regions](http://okmij.org/ftp/Computation/resource-aware-prog/region-io.pdf) by Oleg Kiselyov, Chung-chieh Shan
+  - [ ] :us: [Session Types for Rust](http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf) by Thomas Bracht Laumann Jespersen, Philip Munksgaard, Ken Friis Larsen
+  - [ ] :us: [Permission-Based Ownership: Encapsulating State in High-Order Typed Languages](http://www.softlab.ntua.gr/~pgerakios/literature/OwnershipTypes/permission-based_ownership.pdf) by Neel Krishnaswami, Jonathan Aldrich
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
   - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
@@ -488,9 +507,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
+| __Total__ | ![66](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=66&leftFill=%236699ff) |
 
 </details>
 
@@ -504,7 +523,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - :page_facing_up: __Papers__
   - [ ] :us: [A Polymorphic Type System for Extensible Records and Variants](https://pdfs.semanticscholar.org/e529/13a157b06a95951e19cde54a776e16adee11.pdf) by Benedict R. Gaster, Mark P. Jones
 - :stars: __Slides__
-  - [ ] :us: [Objects and Aspects: Row Polymorphism](https://www.cs.cmu.edu/~neelk/rows.pdf) by Neel Krishnaswami
+  - [x] :us: [Objects and Aspects: Row Polymorphism](https://www.cs.cmu.edu/~neelk/rows.pdf) by Neel Krishnaswami
 
 </details>
 
@@ -543,7 +562,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
-## Verification
+## Verification and Automatic Theorem Proving
 
 
 <details>
@@ -553,11 +572,11 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | --- | --- |
 | Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 
 </details>
 
@@ -568,6 +587,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :book: __Books__
   - [ ] :us: [Software Foundations. Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) by Andrew W. Appel
+- :mortar_board: __Courses__
+  - [x] :us: [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
+- :page_facing_up: __Papers__
+  - [ ] :us: [Verifying Event-Driven Programs using Ramified Frame Properties](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neelk/ramified-frames-tldi10.pdf) by Neel Krishnaswami, Lars Birkedal, Jonathan Aldrich
 
 </details>
 
@@ -585,9 +608,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Videos | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
-| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
+| __Total__ | ![35](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=35&leftFill=%236699ff) |
 
 </details>
 
@@ -598,6 +621,10 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :book: __Books__
   - [ ] :us: [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
+- :page_facing_up: __Papers__
+  - [ ] :us: [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by Ralf Jung, Jacques-Henri Jordan, Robbert Krebbers, Derek Dreyer
+- :stars: __Slides__
+  - [x] :us: [Type Safety Proof](https://homes.cs.washington.edu/~djg/2011sp/lec10_6up.pdf) by Dan Grossman
 - :movie_camera: __Videos__
   - [x] :ru: [Лямбда-исчисление](https://youtu.be/7BPQ-gpXKt4) by Денис Москвин
   - [x] :ru: [Рекурсия и редукция](https://youtu.be/nyulPOcDLGM) by Денис Москвин
@@ -639,7 +666,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :page_facing_up: __Papers__
   - [ ] :us: [Integrating Dependent and Linear Types](https://www.cl.cam.ac.uk/~nk480/dlnl-paper.pdf) by Neel Krishnaswami
-  - :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
+  - [ ] :us: [Linear Logic, Monads and the Lambda Calculus](https://pdfs.semanticscholar.org/9469/d315bd602dfef679024fdbbd7000521a2306.pdf) by Nick Benton, Philip Wadler
 - :movie_camera: __Videos__
   - [x] :us: [Linear and Dependent Types 1](https://youtu.be/5i3YDgQyIwE) by Neel Krishnaswami
   - [x] :us: [Linear and Dependent Types 2](https://youtu.be/2lPebyKMOug) by Neel Krishnaswami
@@ -675,6 +702,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :page_facing_up: __Papers__
   - [ ] :us: [Type Reconstruction for the Linear π-Calculus with Composite Regular Types](https://arxiv.org/pdf/1510.01752.pdf) by Luca Padovani
+  - [ ] :us: [Designing a π-based Programming Language in the .NET Framework: CLR Interoperability from the Programmer's Point of View](https://arxiv.org/ftp/arxiv/papers/1703/1703.05185.pdf) by Manuel Mazzara
 
 </details>
 
@@ -749,13 +777,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![6](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%236699ff) |
+| Articles | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Papers | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Papers | ![14](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=14&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![8](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=8&leftFill=%236699ff) |
+| __Total__ | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 
 </details>
 
@@ -866,7 +894,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
+| __Total__ | ![22](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=22&leftFill=%236699ff) |
 
 </details>
 
@@ -882,9 +910,42 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
   - [ ] :us: [Zero Garbage Collector for .NET Core 2.1 and ASP.NET Core 2.1](http://tooslowexception.com/zero-garbage-collector-for-net-core-2-1-and-asp-net-core-2-1/) by Konrad Kokosa
   - [x] :us: [Allocation is cheap... until it is not](http://tooslowexception.com/allocation-is-cheap-until-it-is-not/) by Konrad Kokosa
   - [ ] :us: [Making .NET code less allocatey – Allocations and the Garbage Collector](https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html) by Maarten Balliauw
+- :page_facing_up: __Papers__
+  - [ ] :us: [Designing a π-based Programming Language in the .NET Framework: CLR Interoperability from the Programmer's Point of View](https://arxiv.org/ftp/arxiv/papers/1703/1703.05185.pdf) by Manuel Mazzara
+  - [ ] :us: [Design and Implementation of Generics for the .NET Common Language Runtime](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/01/designandimplementationofgenerics.pdf) by Andrew Kennedy, Don Syme
 
 </details>
 
+
+
+
+#### F Star
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :page_facing_up: __Papers__
+  - [ ] :us: [Dependent Types and Multi-monadic Effects in F&ast;](https://www.fstar-lang.org/papers/mumon/paper.pdf) by Nikhil Swamy
+
+</details>
 
 
 
@@ -896,13 +957,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![40](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Papers | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| __Total__ | ![42](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=42&leftFill=%236699ff) |
 
 </details>
 
@@ -913,12 +974,48 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :paperclip: __Cheatsheets__
   - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
+- :pencil: __Articles__
+  - [x] :us: [Impredicative Types](https://wiki.haskell.org/Impredicative_types) by [HaskellWiki](https://wiki.haskell.org/)
+  - [ ] :us: [Linear Types Make Performance More Predictable](https://www.tweag.io/posts/2017-03-13-linear-types.html) by Jean-Philippe Bernardy, Arnaud Spiwack
+  - [ ] :us: [Implementing a Safer Sort with Linear Types](https://www.tweag.io/posts/2018-03-08-linear-sort.html) by Alexander Vershilov, Arnaud Spiwack
+  - [x] :us: [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) by Matt Parsons
+  - [ ] :us: [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html) by Matt Parsons
 - :page_facing_up: __Papers__
   - [x] :us: [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf) by Oleg Kiselov
   - [ ] :us: [Lightweight Monadic Regions](http://okmij.org/ftp/Computation/resource-aware-prog/region-io.pdf) by Oleg Kiselyov, Chung-chieh Shan
 
 </details>
 
+
+
+### Rust
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :page_facing_up: __Papers__
+  - [ ] :us: [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by Ralf Jung, Jacques-Henri Jordan, Robbert Krebbers, Derek Dreyer
+  - [ ] :us: [Session Types for Rust](http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf) by Thomas Bracht Laumann Jespersen, Philip Munksgaard, Ken Friis Larsen
+
+</details>
 
 
 
@@ -962,13 +1059,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![10](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Papers | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Papers | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![7](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=7&leftFill=%236699ff) |
+| __Total__ | ![11](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%236699ff) |
 
 </details>
 
@@ -1027,13 +1124,13 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 | Resource type | Progress |
 | --- | --- |
-| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Articles | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
 | Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| Papers | ![50](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%236699ff) |
+| Papers | ![33](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
 
 </details>
 
@@ -1044,6 +1141,9 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :paperclip: __Cheatsheets__
   - :us: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) by Brent Yorgey
+- :pencil: __Articles__
+  - [x] :us: [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) by Matt Parsons
+  - [ ] :us: [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html) by Matt Parsons
 - :book: __Books__
   - [ ] :us: [Software Foundations. Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) by Benjamin C. Pierce
   - [ ] :us: [Software Foundations. Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) by Benjamin C. Pierce
@@ -1051,6 +1151,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 - :page_facing_up: __Papers__
   - [x] :us: [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf) by Oleg Kiselov
   - [ ] :us: [Lightweight Monadic Regions](http://okmij.org/ftp/Computation/resource-aware-prog/region-io.pdf) by Oleg Kiselyov, Chung-chieh Shan
+  - [ ] :us: [Verifying Event-Driven Programs using Ramified Frame Properties](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neelk/ramified-frames-tldi10.pdf) by Neel Krishnaswami, Lars Birkedal, Jonathan Aldrich
 
 </details>
 
@@ -1255,7 +1356,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
 | Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
-| __Total__ | ![25](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%236699ff) |
+| __Total__ | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
 
 </details>
 
@@ -1266,6 +1367,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :pencil: __Articles__
   - [x] :us: [Concurrent Programming in .NET Core](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core) by Damir Arh
+- :page_facing_up: __Papers__
+  - [ ] :us: [Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Programming](http://iris-project.org/pdfs/2015-popl-iris1-final.pdf) by Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal, Derek Dreyer
 - :movie_camera: __Videos__
   - [ ] :us: [Substructural Type Systems and Concurrent Programming 1](https://youtu.be/ZW-VWWa1o9g) by Frank Pfenning
 
@@ -1363,6 +1466,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :pencil: __Articles__
   - [ ] :us: [Single Statement Unit Tests](http://www.yegor256.com/2017/05/17/single-statement-unit-tests.html) by [Yegor Bugayenko](http://www.yegor256.com/)
+  - [ ] :us: [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html) by Matt Parsons
 
 </details>
 
@@ -1451,6 +1555,36 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :mortar_board: __Courses__
   - [ ] :ru: [Машинное обучение](https://yandexdataschool.ru/edu-process/courses/machine-learning) by [School of Data Analysis](https://yandexdataschool.com/)
+
+</details>
+
+
+
+## Digital Marketing
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :paperclip: __Cheatsheets__
+  - :us: [Metrics in Digital Marketing (wiki)](http://cpm.wiki/) by Svend A. Sylling
 
 </details>
 
