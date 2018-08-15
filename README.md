@@ -1585,6 +1585,7 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 - :paperclip: __Cheatsheets__
   - :us: [Metrics in Digital Marketing (wiki)](http://cpm.wiki/) by Svend A. Sylling
+  - :us: [OpenRTB Dynamic Native Ads API Specification Version 1.2](https://www.iab.com/wp-content/uploads/2017/04/OpenRTB-Native-Ads-Specification-Draft_1.2_2017-04.pdf) by RTB Project
 
 </details>
 

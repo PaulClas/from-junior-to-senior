@@ -1922,5 +1922,19 @@
     "tags": [
       "Digital Marketing"
     ]
+  },
+  {
+    "title": "OpenRTB Dynamic Native Ads API Specification Version 1.2",
+    "link": "https://www.iab.com/wp-content/uploads/2017/04/OpenRTB-Native-Ads-Specification-Draft_1.2_2017-04.pdf",
+    "item_type": "Cheatsheet",
+    "language": "English",
+    "authors": [
+      {
+        "name": "RTB Project"
+      }
+    ],
+    "tags": [
+      "Digital Marketing"
+    ]
   }
 ]
