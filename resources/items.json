@@ -1936,5 +1936,55 @@
     "tags": [
       "Digital Marketing"
     ]
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "link": "https://mitpress.mit.edu/sites/default/files/sicp/index.html",
+    "item_type": "Book",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Hal Abelson"
+      },
+      {
+        "name": "Gerald Jay Sussman"
+      }
+    ],
+    "tags": [
+      "Algorithms"
+    ],
+    "done": false
+  },
+  {
+    "title": "Introduction to Blockchain",
+    "link": "https://www.codecademy.com/learn/introduction-to-blockchain",
+    "item_type": "Course",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Codecademy",
+        "link": "https://www.codecademy.com"
+      }
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "done": true
+  },
+  {
+    "title": "Pattern: Saga",
+    "link": "https://microservices.io/patterns/data/saga.html",
+    "item_type": "Article",
+    "language": "English",
+    "authors": [
+      {
+        "name": "Microservices.io",
+        "link": "https://microservices.io"
+      }
+    ],
+    "tags": [
+      "Microservices"
+    ],
+    "done": false
   }
 ]

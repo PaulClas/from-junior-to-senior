@@ -31,8 +31,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 | Resource type | Progress |
 | --- | --- |
 | Articles | ![16](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=16&leftFill=%236699ff) |
-| Books | ![10](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%236699ff) |
-| Courses | ![20](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%236699ff) |
+| Books | ![9](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=9&leftFill=%236699ff) |
+| Courses | ![27](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=27&leftFill=%236699ff) |
 | Papers | ![5](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%236699ff) |
 | Slides | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
 | Videos | ![30](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%236699ff) |
@@ -732,6 +732,8 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 <details>
 <summary>Resources</summary>
 
+- :book: __Books__
+  - [ ] :us: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) by Hal Abelson, Gerald Jay Sussman
 - :mortar_board: __Courses__
   - [ ] :ru: [Алгоритмы и структуры данных](https://yandexdataschool.ru/edu-process/courses/algorithms) by [School of Data Analysis](https://yandexdataschool.com/)
 
@@ -1307,6 +1309,89 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+## Web Development
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+
+### Backend
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+
+</details>
+
+
+
+#### Microservices
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :pencil: __Articles__
+  - [ ] :us: [Pattern: Saga](https://microservices.io/patterns/data/saga.html) by [Microservices.io](https://microservices.io)
+
+</details>
 
 
 
@@ -1438,6 +1523,35 @@ If you want to suggest a resource, you can just [open an issue](https://github.c
 
 
 
+
+
+## Blockchain
+
+
+<details>
+<summary>Statistics</summary>
+
+| Resource type | Progress |
+| --- | --- |
+| Articles | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Books | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Courses | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+| Papers | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Slides | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| Videos | ![0](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%236699ff) |
+| __Total__ | ![100](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%236699ff) |
+
+</details>
+
+
+
+<details>
+<summary>Resources</summary>
+
+- :mortar_board: __Courses__
+  - [x] :us: [Introduction to Blockchain](https://www.codecademy.com/learn/introduction-to-blockchain) by [Codecademy](https://www.codecademy.com)
+
+</details>
 
 
 
