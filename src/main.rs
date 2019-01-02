@@ -4,15 +4,16 @@ extern crate serde;
 extern crate serde_json;
 #[macro_use] extern crate serde_derive;
 
-use clap::{App, Arg};
 use std::fs::File;
-use std::io;
 use std::io::prelude::*;
 use std::path::Path;
 use std::path::PathBuf;
+
+use clap::{App, Arg};
+use mustache::MapBuilder;
+
 use items::ItemsList;
 use tags::TagsList;
-use mustache::MapBuilder;
 use render::markdown::render_stats;
 use render::markdown::render_toc;
 use render::markdown::render_list;

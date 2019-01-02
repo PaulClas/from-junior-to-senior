@@ -1,6 +1,5 @@
 use tags::Tag;
 use items::ListItem;
-use items::ListItemType;
 use tags::get_tags_with_children;
 
 pub fn render_stats(items: &Vec<ListItem>, use_spoiler: bool) -> String {
@@ -115,7 +114,7 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             })
         }).map(|x| { x.clone() }).collect();
 
-        if (tag_items.len() != 0) {
+        if tag_items.len() != 0 {
             lines.push("".to_owned());
             lines.push(tag_header);
             lines.push("".to_owned());
@@ -141,7 +140,7 @@ pub fn render_list_with_level(tags: &Vec<Tag>, items: &Vec<ListItem>, level: usi
             }
         }
 
-        if (tag_items.len() != 0) {
+        if tag_items.len() != 0 {
             lines.push("\n</details>\n".to_owned());
         }
 

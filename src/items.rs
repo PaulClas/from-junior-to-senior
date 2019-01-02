@@ -1,5 +1,3 @@
-use tags::Tag;
-
 pub struct Link {
     pub title: String,
     pub url: String,
@@ -11,9 +9,7 @@ impl Link {
     }
 }
 
-#[derive(PartialEq)]
-#[derive(Serialize, Deserialize)]
-#[derive(Copy, Clone)]
+#[derive(Copy, Clone, PartialEq, Serialize, Deserialize)]
 pub enum ListItemType {
     Article,
     Book,
@@ -25,6 +21,7 @@ pub enum ListItemType {
 }
 
 impl ListItemType {
+    #[allow(unused)]
     pub fn to_string(self) -> String {
         match self {
             ListItemType::Article => "Article",
